@@ -11,7 +11,7 @@ let start = async () => {
     let expression = jsonata('$$.items.{"name": name, "url": url, "full_name": full_name, "html_url": html_url, "stars": stargazers_count, "forks": forks_count}');
     let result = expression.evaluate(gitSearchResp);
     // console.log(result)
-    const currentstamp = moment().format('MMMM-Do-YYYY')
+    const currentstamp = moment().format('MMMM-Do-YYYY, h:mm:ss a')
     if(result){
         const writeArch = await writeFile("./dailyArchive/" + currentstamp +".json", JSON.stringify(result, "", 4))
         const writeCurr = await writeFile("./currentFile.json", JSON.stringify(result, "", 4))

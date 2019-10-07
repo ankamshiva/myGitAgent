@@ -1,6 +1,7 @@
 const { exec } = require('child_process');
+import moment from "moment"
 export const commitAndPush = () => {
-    exec('git status', (err, stdout, stderr) => {
+    exec('git status && git add . && git commit -am"Added new files at'+ moment().format('MMMM-Do-YYYY, h:mm:ss a') +'" && git push origin master', (err, stdout, stderr) => {
         if (err) {
             // node couldn't execute the command
             return;
