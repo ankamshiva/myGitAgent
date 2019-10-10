@@ -24,4 +24,4 @@ let start = async () => {
 }
 
 
-setInterval(start, 5000)
+setInterval(start, 60000)
