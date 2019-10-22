@@ -11,7 +11,7 @@ I am thinking to add steps for
 - Ubuntu
 - RaspberryPi
 
-Prerequsits:
+Prerequisites:
 - Nodejs
 - Gitcli
 - Github account
