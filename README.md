@@ -1,4 +1,5 @@
 # MyGitAgent!
+This will commit the code every one hour for you ;)
 
 Prerequsits:
 - Nodejs
@@ -50,6 +51,7 @@ https://api.github.com/search/repositories?q=+language:javascript+stars:>500&sor
 https://github.com/search?l=&o=desc&q=stars%3A>500+language%3AJavaScript&s=updated&type=Repositories
 
 
+### forever help
 
 forever list
 forever stop <process-id>
