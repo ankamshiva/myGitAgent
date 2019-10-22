@@ -29,3 +29,17 @@ tell application "iTerm"
 	end tell
 end tell
 
+
+
+start Automator.app
+select Application
+click Show library in the toolbar (if hidden)
+search for apple script
+copy & paste above script
+test it
+save in applications directory and name MyGitAgent
+
+go to System Preferences -> Accounts -> Login items
+
+add this app
+test & done ;)
