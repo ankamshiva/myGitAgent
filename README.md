@@ -1,6 +1,11 @@
 # MyGitAgent!
 This will commit the code every one hour for you.
 So, even if you are on vacation this agant will do some activity for you ;) As if you are working.
+Right now I have only put steps to automate in Mac. But it is very easy to do the job in other platforms.
+
+I am thinking to add steps for
+- Ubuntu
+- RaspberryPi
 
 Prerequsits:
 - Nodejs
