@@ -19,3 +19,13 @@ forever stop <process-id>
 forever stopall
 
 
+
+Apple script
+
+tell application "iTerm"
+	set newWindow to (create window with default profile)
+	tell current session of newWindow
+		write text "forever stopall && cd /Users/aahlad/Documents/proj/personalCode/myGitAgent && forever start -c node_modules/.bin/babel-node index.js && forever list"
+	end tell
+end tell
+
