@@ -15,5 +15,7 @@ npm install forever -g
 cd /Users/aahlad/Documents/proj/personalCode/myGitAgent && forever start -c node_modules/.bin/babel-node index.js
 
 forever list
-forever process list
+forever stop <process-id>
+forever stopall
+
 
