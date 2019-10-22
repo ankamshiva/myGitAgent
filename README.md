@@ -27,13 +27,13 @@ For Mac users
 - select Application
 - click Show library in the toolbar (if hidden)
 - search for "apple script"
-- copy & paste below script
+- copy & paste below script (Note: Mind the repo url)
     ```applescript
         tell application "iTerm"
-    	set newWindow to (create window with default profile)
-    	tell current session of newWindow
-    		write text "forever stopall && cd /Users/aahlad/Documents/proj/personalCode/myGitAgent && forever start -c node_modules/.bin/babel-node index.js && forever list"
-    	end tell
+            set newWindow to (create window with default profile)
+            tell current session of newWindow
+                write text "forever stopall && cd <TO YOUR REPO> && forever start -c node_modules/.bin/babel-node index.js && forever list"
+            end tell
         end tell
     ```
 - test it
