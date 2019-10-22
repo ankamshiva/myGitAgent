@@ -1,5 +1,6 @@
 # MyGitAgent!
 This will commit the code every one hour for you ;)
+So, even if you are on vacation 
 
 Prerequsits:
 - Nodejs
