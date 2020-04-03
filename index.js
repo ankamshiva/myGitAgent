@@ -13,7 +13,7 @@ let start = async () => {
     // console.log(result)
     const currentstamp = moment().format('MMMM-Do-YYYY, h:mm:ss a')
     if(result){
-        const writeArch = await writeFile("./dailyArchive/" + currentstamp +".json", JSON.stringify(result, "", 4))
+        // const writeArch = await writeFile("./dailyArchive/" + currentstamp +".json", JSON.stringify(result, "", 4))
         const writeCurr = await writeFile("./currentFile.json", JSON.stringify(result, "", 4))
         console.log(moment().format('MMMM-Do-YYYY, h:mm:ss a'))
         //if(writeArch && writeCurr){
