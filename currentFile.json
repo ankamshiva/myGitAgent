@@ -1,155 +1,67 @@
 [
     {
-        "name": "relay",
-        "url": "https://api.github.com/repos/facebook/relay",
-        "full_name": "facebook/relay",
-        "html_url": "https://github.com/facebook/relay",
-        "stars": 14268,
-        "forks": 1431
-    },
-    {
-        "name": "bootstrap-vue",
-        "url": "https://api.github.com/repos/bootstrap-vue/bootstrap-vue",
-        "full_name": "bootstrap-vue/bootstrap-vue",
-        "html_url": "https://github.com/bootstrap-vue/bootstrap-vue",
-        "stars": 11200,
-        "forks": 1515
-    },
-    {
         "name": "wekan",
         "url": "https://api.github.com/repos/wekan/wekan",
         "full_name": "wekan/wekan",
         "html_url": "https://github.com/wekan/wekan",
-        "stars": 15640,
+        "stars": 15641,
         "forks": 2337
     },
     {
-        "name": "web",
-        "url": "https://api.github.com/repos/gitcoinco/web",
-        "full_name": "gitcoinco/web",
-        "html_url": "https://github.com/gitcoinco/web",
-        "stars": 878,
-        "forks": 513
+        "name": "condenser",
+        "url": "https://api.github.com/repos/steemit/condenser",
+        "full_name": "steemit/condenser",
+        "html_url": "https://github.com/steemit/condenser",
+        "stars": 512,
+        "forks": 420
     },
     {
-        "name": "stripe-node",
-        "url": "https://api.github.com/repos/stripe/stripe-node",
-        "full_name": "stripe/stripe-node",
-        "html_url": "https://github.com/stripe/stripe-node",
-        "stars": 2251,
-        "forks": 416
+        "name": "openmct",
+        "url": "https://api.github.com/repos/nasa/openmct",
+        "full_name": "nasa/openmct",
+        "html_url": "https://github.com/nasa/openmct",
+        "stars": 8045,
+        "forks": 797
     },
     {
-        "name": "wp-calypso",
-        "url": "https://api.github.com/repos/Automattic/wp-calypso",
-        "full_name": "Automattic/wp-calypso",
-        "html_url": "https://github.com/Automattic/wp-calypso",
-        "stars": 11425,
-        "forks": 1734
+        "name": "husky",
+        "url": "https://api.github.com/repos/typicode/husky",
+        "full_name": "typicode/husky",
+        "html_url": "https://github.com/typicode/husky",
+        "stars": 18385,
+        "forks": 657
     },
     {
-        "name": "renovate",
-        "url": "https://api.github.com/repos/renovatebot/renovate",
-        "full_name": "renovatebot/renovate",
-        "html_url": "https://github.com/renovatebot/renovate",
-        "stars": 2806,
-        "forks": 387
+        "name": "awx",
+        "url": "https://api.github.com/repos/ansible/awx",
+        "full_name": "ansible/awx",
+        "html_url": "https://github.com/ansible/awx",
+        "stars": 7570,
+        "forks": 1873
     },
     {
-        "name": "ramda",
-        "url": "https://api.github.com/repos/ramda/ramda",
-        "full_name": "ramda/ramda",
-        "html_url": "https://github.com/ramda/ramda",
-        "stars": 18553,
-        "forks": 1196
+        "name": "ts-loader",
+        "url": "https://api.github.com/repos/TypeStrong/ts-loader",
+        "full_name": "TypeStrong/ts-loader",
+        "html_url": "https://github.com/TypeStrong/ts-loader",
+        "stars": 2527,
+        "forks": 320
     },
     {
-        "name": "node",
-        "url": "https://api.github.com/repos/nodejs/node",
-        "full_name": "nodejs/node",
-        "html_url": "https://github.com/nodejs/node",
-        "stars": 68939,
-        "forks": 16605
+        "name": "generator-jhipster",
+        "url": "https://api.github.com/repos/jhipster/generator-jhipster",
+        "full_name": "jhipster/generator-jhipster",
+        "html_url": "https://github.com/jhipster/generator-jhipster",
+        "stars": 15902,
+        "forks": 3230
     },
     {
-        "name": "code-dot-org",
-        "url": "https://api.github.com/repos/code-dot-org/code-dot-org",
-        "full_name": "code-dot-org/code-dot-org",
-        "html_url": "https://github.com/code-dot-org/code-dot-org",
-        "stars": 544,
-        "forks": 318
-    },
-    {
-        "name": "vant-weapp",
-        "url": "https://api.github.com/repos/youzan/vant-weapp",
-        "full_name": "youzan/vant-weapp",
-        "html_url": "https://github.com/youzan/vant-weapp",
-        "stars": 12298,
-        "forks": 2529
-    },
-    {
-        "name": "next-seo",
-        "url": "https://api.github.com/repos/garmeeh/next-seo",
-        "full_name": "garmeeh/next-seo",
-        "html_url": "https://github.com/garmeeh/next-seo",
-        "stars": 959,
-        "forks": 54
-    },
-    {
-        "name": "crudbooster",
-        "url": "https://api.github.com/repos/crocodic-studio/crudbooster",
-        "full_name": "crocodic-studio/crudbooster",
-        "html_url": "https://github.com/crocodic-studio/crudbooster",
-        "stars": 1336,
-        "forks": 723
-    },
-    {
-        "name": "auth0.js",
-        "url": "https://api.github.com/repos/auth0/auth0.js",
-        "full_name": "auth0/auth0.js",
-        "html_url": "https://github.com/auth0/auth0.js",
-        "stars": 655,
-        "forks": 345
-    },
-    {
-        "name": "jitsi-meet",
-        "url": "https://api.github.com/repos/jitsi/jitsi-meet",
-        "full_name": "jitsi/jitsi-meet",
-        "html_url": "https://github.com/jitsi/jitsi-meet",
-        "stars": 8740,
-        "forks": 2368
-    },
-    {
-        "name": "react-bootstrap",
-        "url": "https://api.github.com/repos/react-bootstrap/react-bootstrap",
-        "full_name": "react-bootstrap/react-bootstrap",
-        "html_url": "https://github.com/react-bootstrap/react-bootstrap",
-        "stars": 17335,
-        "forks": 2814
-    },
-    {
-        "name": "docs",
-        "url": "https://api.github.com/repos/zeit/docs",
-        "full_name": "zeit/docs",
-        "html_url": "https://github.com/zeit/docs",
-        "stars": 574,
-        "forks": 361
-    },
-    {
-        "name": "graphql-engine",
-        "url": "https://api.github.com/repos/hasura/graphql-engine",
-        "full_name": "hasura/graphql-engine",
-        "html_url": "https://github.com/hasura/graphql-engine",
-        "stars": 15911,
-        "forks": 1277
-    },
-    {
-        "name": "gutenberg",
-        "url": "https://api.github.com/repos/WordPress/gutenberg",
-        "full_name": "WordPress/gutenberg",
-        "html_url": "https://github.com/WordPress/gutenberg",
-        "stars": 5710,
-        "forks": 1840
+        "name": "devconnector_2.0",
+        "url": "https://api.github.com/repos/bradtraversy/devconnector_2.0",
+        "full_name": "bradtraversy/devconnector_2.0",
+        "html_url": "https://github.com/bradtraversy/devconnector_2.0",
+        "stars": 635,
+        "forks": 458
     },
     {
         "name": "gatsby-starter-blog",
@@ -157,86 +69,174 @@
         "full_name": "gatsbyjs/gatsby-starter-blog",
         "html_url": "https://github.com/gatsbyjs/gatsby-starter-blog",
         "stars": 2387,
-        "forks": 1085
+        "forks": 1086
     },
     {
-        "name": "cra-template-redux",
-        "url": "https://api.github.com/repos/reduxjs/cra-template-redux",
-        "full_name": "reduxjs/cra-template-redux",
-        "html_url": "https://github.com/reduxjs/cra-template-redux",
-        "stars": 573,
-        "forks": 37
+        "name": "DevExtreme",
+        "url": "https://api.github.com/repos/DevExpress/DevExtreme",
+        "full_name": "DevExpress/DevExtreme",
+        "html_url": "https://github.com/DevExpress/DevExtreme",
+        "stars": 1178,
+        "forks": 329
     },
     {
-        "name": "cypress",
-        "url": "https://api.github.com/repos/cypress-io/cypress",
-        "full_name": "cypress-io/cypress",
-        "html_url": "https://github.com/cypress-io/cypress",
-        "stars": 19387,
-        "forks": 1159
+        "name": "brave-browser",
+        "url": "https://api.github.com/repos/brave/brave-browser",
+        "full_name": "brave/brave-browser",
+        "html_url": "https://github.com/brave/brave-browser",
+        "stars": 5700,
+        "forks": 561
     },
     {
-        "name": "plotly.js",
-        "url": "https://api.github.com/repos/plotly/plotly.js",
-        "full_name": "plotly/plotly.js",
-        "html_url": "https://github.com/plotly/plotly.js",
-        "stars": 11440,
-        "forks": 1355
+        "name": "nodetube",
+        "url": "https://api.github.com/repos/mayeaux/nodetube",
+        "full_name": "mayeaux/nodetube",
+        "html_url": "https://github.com/mayeaux/nodetube",
+        "stars": 1677,
+        "forks": 133
     },
     {
-        "name": "axe-core",
-        "url": "https://api.github.com/repos/dequelabs/axe-core",
-        "full_name": "dequelabs/axe-core",
-        "html_url": "https://github.com/dequelabs/axe-core",
-        "stars": 2915,
-        "forks": 394
+        "name": "astroturf",
+        "url": "https://api.github.com/repos/4Catalyzer/astroturf",
+        "full_name": "4Catalyzer/astroturf",
+        "html_url": "https://github.com/4Catalyzer/astroturf",
+        "stars": 1641,
+        "forks": 51
+    },
+    {
+        "name": "maps",
+        "url": "https://api.github.com/repos/react-native-mapbox-gl/maps",
+        "full_name": "react-native-mapbox-gl/maps",
+        "html_url": "https://github.com/react-native-mapbox-gl/maps",
+        "stars": 510,
+        "forks": 251
+    },
+    {
+        "name": "hexo-theme-volantis",
+        "url": "https://api.github.com/repos/xaoxuu/hexo-theme-volantis",
+        "full_name": "xaoxuu/hexo-theme-volantis",
+        "html_url": "https://github.com/xaoxuu/hexo-theme-volantis",
+        "stars": 563,
+        "forks": 202
+    },
+    {
+        "name": "apostrophe",
+        "url": "https://api.github.com/repos/apostrophecms/apostrophe",
+        "full_name": "apostrophecms/apostrophe",
+        "html_url": "https://github.com/apostrophecms/apostrophe",
+        "stars": 3092,
+        "forks": 409
+    },
+    {
+        "name": "lando",
+        "url": "https://api.github.com/repos/lando/lando",
+        "full_name": "lando/lando",
+        "html_url": "https://github.com/lando/lando",
+        "stars": 2144,
+        "forks": 379
+    },
+    {
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 17187,
+        "forks": 12046
     },
     {
         "name": "gatsby",
         "url": "https://api.github.com/repos/gatsbyjs/gatsby",
         "full_name": "gatsbyjs/gatsby",
         "html_url": "https://github.com/gatsbyjs/gatsby",
-        "stars": 43385,
+        "stars": 43387,
         "forks": 7719
     },
     {
-        "name": "strapi",
-        "url": "https://api.github.com/repos/strapi/strapi",
-        "full_name": "strapi/strapi",
-        "html_url": "https://github.com/strapi/strapi",
-        "stars": 23285,
-        "forks": 2783
+        "name": "showdoc",
+        "url": "https://api.github.com/repos/star7th/showdoc",
+        "full_name": "star7th/showdoc",
+        "html_url": "https://github.com/star7th/showdoc",
+        "stars": 6754,
+        "forks": 1520
     },
     {
-        "name": "wp-desktop",
-        "url": "https://api.github.com/repos/Automattic/wp-desktop",
-        "full_name": "Automattic/wp-desktop",
-        "html_url": "https://github.com/Automattic/wp-desktop",
-        "stars": 814,
-        "forks": 277
+        "name": "kubernetes-client",
+        "url": "https://api.github.com/repos/godaddy/kubernetes-client",
+        "full_name": "godaddy/kubernetes-client",
+        "html_url": "https://github.com/godaddy/kubernetes-client",
+        "stars": 778,
+        "forks": 170
     },
     {
-        "name": "carbon",
-        "url": "https://api.github.com/repos/carbon-design-system/carbon",
-        "full_name": "carbon-design-system/carbon",
-        "html_url": "https://github.com/carbon-design-system/carbon",
-        "stars": 2847,
-        "forks": 633
+        "name": "Ghost",
+        "url": "https://api.github.com/repos/TryGhost/Ghost",
+        "full_name": "TryGhost/Ghost",
+        "html_url": "https://github.com/TryGhost/Ghost",
+        "stars": 33196,
+        "forks": 7206
     },
     {
-        "name": "postgres",
-        "url": "https://api.github.com/repos/porsager/postgres",
-        "full_name": "porsager/postgres",
-        "html_url": "https://github.com/porsager/postgres",
-        "stars": 1611,
-        "forks": 37
+        "name": "covid19india-react",
+        "url": "https://api.github.com/repos/covid19india/covid19india-react",
+        "full_name": "covid19india/covid19india-react",
+        "html_url": "https://github.com/covid19india/covid19india-react",
+        "stars": 1863,
+        "forks": 1140
     },
     {
-        "name": "node-rdkafka",
-        "url": "https://api.github.com/repos/Blizzard/node-rdkafka",
-        "full_name": "Blizzard/node-rdkafka",
-        "html_url": "https://github.com/Blizzard/node-rdkafka",
-        "stars": 1447,
-        "forks": 278
+        "name": "karma",
+        "url": "https://api.github.com/repos/prymitive/karma",
+        "full_name": "prymitive/karma",
+        "html_url": "https://github.com/prymitive/karma",
+        "stars": 644,
+        "forks": 52
+    },
+    {
+        "name": "nodejs.org",
+        "url": "https://api.github.com/repos/nodejs/nodejs.org",
+        "full_name": "nodejs/nodejs.org",
+        "html_url": "https://github.com/nodejs/nodejs.org",
+        "stars": 1455,
+        "forks": 2764
+    },
+    {
+        "name": "tutanota",
+        "url": "https://api.github.com/repos/tutao/tutanota",
+        "full_name": "tutao/tutanota",
+        "html_url": "https://github.com/tutao/tutanota",
+        "stars": 3213,
+        "forks": 350
+    },
+    {
+        "name": "mattermost-webapp",
+        "url": "https://api.github.com/repos/mattermost/mattermost-webapp",
+        "full_name": "mattermost/mattermost-webapp",
+        "html_url": "https://github.com/mattermost/mattermost-webapp",
+        "stars": 826,
+        "forks": 1468
+    },
+    {
+        "name": "openui5",
+        "url": "https://api.github.com/repos/SAP/openui5",
+        "full_name": "SAP/openui5",
+        "html_url": "https://github.com/SAP/openui5",
+        "stars": 2156,
+        "forks": 1078
+    },
+    {
+        "name": "devtools-frontend",
+        "url": "https://api.github.com/repos/ChromeDevTools/devtools-frontend",
+        "full_name": "ChromeDevTools/devtools-frontend",
+        "html_url": "https://github.com/ChromeDevTools/devtools-frontend",
+        "stars": 1377,
+        "forks": 213
+    },
+    {
+        "name": "debugger-protocol-viewer",
+        "url": "https://api.github.com/repos/ChromeDevTools/debugger-protocol-viewer",
+        "full_name": "ChromeDevTools/debugger-protocol-viewer",
+        "html_url": "https://github.com/ChromeDevTools/debugger-protocol-viewer",
+        "stars": 638,
+        "forks": 141
     }
 ]
