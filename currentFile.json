@@ -1,211 +1,27 @@
 [
     {
-        "name": "moment",
-        "url": "https://api.github.com/repos/moment/moment",
-        "full_name": "moment/moment",
-        "html_url": "https://github.com/moment/moment",
-        "stars": 43733,
-        "forks": 6570
+        "name": "DevExtreme",
+        "url": "https://api.github.com/repos/DevExpress/DevExtreme",
+        "full_name": "DevExpress/DevExtreme",
+        "html_url": "https://github.com/DevExpress/DevExtreme",
+        "stars": 1179,
+        "forks": 331
     },
     {
-        "name": "web",
-        "url": "https://api.github.com/repos/gitcoinco/web",
-        "full_name": "gitcoinco/web",
-        "html_url": "https://github.com/gitcoinco/web",
-        "stars": 881,
-        "forks": 513
+        "name": "ring-ui",
+        "url": "https://api.github.com/repos/JetBrains/ring-ui",
+        "full_name": "JetBrains/ring-ui",
+        "html_url": "https://github.com/JetBrains/ring-ui",
+        "stars": 2395,
+        "forks": 130
     },
     {
-        "name": "mostly-adequate-guide-ru",
-        "url": "https://api.github.com/repos/MostlyAdequate/mostly-adequate-guide-ru",
-        "full_name": "MostlyAdequate/mostly-adequate-guide-ru",
-        "html_url": "https://github.com/MostlyAdequate/mostly-adequate-guide-ru",
-        "stars": 887,
-        "forks": 124
-    },
-    {
-        "name": "framework",
-        "url": "https://api.github.com/repos/totaljs/framework",
-        "full_name": "totaljs/framework",
-        "html_url": "https://github.com/totaljs/framework",
-        "stars": 4058,
-        "forks": 441
-    },
-    {
-        "name": "freeCodeCamp",
-        "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
-        "full_name": "freeCodeCamp/freeCodeCamp",
-        "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "stars": 309929,
-        "forks": 23917
-    },
-    {
-        "name": "odoo",
-        "url": "https://api.github.com/repos/odoo/odoo",
-        "full_name": "odoo/odoo",
-        "html_url": "https://github.com/odoo/odoo",
-        "stars": 17248,
-        "forks": 12086
-    },
-    {
-        "name": "RSSHub",
-        "url": "https://api.github.com/repos/DIYgod/RSSHub",
-        "full_name": "DIYgod/RSSHub",
-        "html_url": "https://github.com/DIYgod/RSSHub",
-        "stars": 11480,
-        "forks": 1624
-    },
-    {
-        "name": "next.js",
-        "url": "https://api.github.com/repos/zeit/next.js",
-        "full_name": "zeit/next.js",
-        "html_url": "https://github.com/zeit/next.js",
-        "stars": 46950,
-        "forks": 6857
-    },
-    {
-        "name": "jitsi-meet",
-        "url": "https://api.github.com/repos/jitsi/jitsi-meet",
-        "full_name": "jitsi/jitsi-meet",
-        "html_url": "https://github.com/jitsi/jitsi-meet",
-        "stars": 9726,
-        "forks": 2594
-    },
-    {
-        "name": "pokemon-showdown",
-        "url": "https://api.github.com/repos/smogon/pokemon-showdown",
-        "full_name": "smogon/pokemon-showdown",
-        "html_url": "https://github.com/smogon/pokemon-showdown",
-        "stars": 2635,
-        "forks": 1692
-    },
-    {
-        "name": "bpmn-js",
-        "url": "https://api.github.com/repos/bpmn-io/bpmn-js",
-        "full_name": "bpmn-io/bpmn-js",
-        "html_url": "https://github.com/bpmn-io/bpmn-js",
-        "stars": 3568,
-        "forks": 632
-    },
-    {
-        "name": "violentmonkey",
-        "url": "https://api.github.com/repos/violentmonkey/violentmonkey",
-        "full_name": "violentmonkey/violentmonkey",
-        "html_url": "https://github.com/violentmonkey/violentmonkey",
-        "stars": 1405,
-        "forks": 202
-    },
-    {
-        "name": "react",
-        "url": "https://api.github.com/repos/facebook/react",
-        "full_name": "facebook/react",
-        "html_url": "https://github.com/facebook/react",
-        "stars": 146985,
-        "forks": 28418
-    },
-    {
-        "name": "ui5-webcomponents",
-        "url": "https://api.github.com/repos/SAP/ui5-webcomponents",
-        "full_name": "SAP/ui5-webcomponents",
-        "html_url": "https://github.com/SAP/ui5-webcomponents",
-        "stars": 673,
-        "forks": 97
-    },
-    {
-        "name": "bootstrap",
-        "url": "https://api.github.com/repos/twbs/bootstrap",
-        "full_name": "twbs/bootstrap",
-        "html_url": "https://github.com/twbs/bootstrap",
-        "stars": 140012,
-        "forks": 68609
-    },
-    {
-        "name": "codesandbox-client",
-        "url": "https://api.github.com/repos/codesandbox/codesandbox-client",
-        "full_name": "codesandbox/codesandbox-client",
-        "html_url": "https://github.com/codesandbox/codesandbox-client",
-        "stars": 9251,
-        "forks": 1396
-    },
-    {
-        "name": "react-native-bootsplash",
-        "url": "https://api.github.com/repos/zoontek/react-native-bootsplash",
-        "full_name": "zoontek/react-native-bootsplash",
-        "html_url": "https://github.com/zoontek/react-native-bootsplash",
-        "stars": 649,
-        "forks": 49
-    },
-    {
-        "name": "covid19india-react",
-        "url": "https://api.github.com/repos/covid19india/covid19india-react",
-        "full_name": "covid19india/covid19india-react",
-        "html_url": "https://github.com/covid19india/covid19india-react",
-        "stars": 2376,
-        "forks": 1483
-    },
-    {
-        "name": "iptv",
-        "url": "https://api.github.com/repos/iptv-org/iptv",
-        "full_name": "iptv-org/iptv",
-        "html_url": "https://github.com/iptv-org/iptv",
-        "stars": 14719,
-        "forks": 2145
-    },
-    {
-        "name": "wix-style-react",
-        "url": "https://api.github.com/repos/wix/wix-style-react",
-        "full_name": "wix/wix-style-react",
-        "html_url": "https://github.com/wix/wix-style-react",
-        "stars": 651,
-        "forks": 160
-    },
-    {
-        "name": "gatsby",
-        "url": "https://api.github.com/repos/gatsbyjs/gatsby",
-        "full_name": "gatsbyjs/gatsby",
-        "html_url": "https://github.com/gatsbyjs/gatsby",
-        "stars": 43573,
-        "forks": 7785
-    },
-    {
-        "name": "joplin",
-        "url": "https://api.github.com/repos/laurent22/joplin",
-        "full_name": "laurent22/joplin",
-        "html_url": "https://github.com/laurent22/joplin",
-        "stars": 15045,
-        "forks": 1542
-    },
-    {
-        "name": "LimeSurvey",
-        "url": "https://api.github.com/repos/LimeSurvey/LimeSurvey",
-        "full_name": "LimeSurvey/LimeSurvey",
-        "html_url": "https://github.com/LimeSurvey/LimeSurvey",
-        "stars": 1453,
-        "forks": 694
-    },
-    {
-        "name": "node",
-        "url": "https://api.github.com/repos/nodejs/node",
-        "full_name": "nodejs/node",
-        "html_url": "https://github.com/nodejs/node",
-        "stars": 69150,
-        "forks": 16672
-    },
-    {
-        "name": "wavesurfer.js",
-        "url": "https://api.github.com/repos/katspaugh/wavesurfer.js",
-        "full_name": "katspaugh/wavesurfer.js",
-        "html_url": "https://github.com/katspaugh/wavesurfer.js",
-        "stars": 4319,
-        "forks": 1008
-    },
-    {
-        "name": "thelounge",
-        "url": "https://api.github.com/repos/thelounge/thelounge",
-        "full_name": "thelounge/thelounge",
-        "html_url": "https://github.com/thelounge/thelounge",
-        "stars": 3596,
-        "forks": 458
+        "name": "installer",
+        "url": "https://api.github.com/repos/AnarchyLinux/installer",
+        "full_name": "AnarchyLinux/installer",
+        "html_url": "https://github.com/AnarchyLinux/installer",
+        "stars": 1193,
+        "forks": 191
     },
     {
         "name": "wp-calypso",
@@ -216,27 +32,211 @@
         "forks": 1739
     },
     {
-        "name": "atom",
-        "url": "https://api.github.com/repos/atom/atom",
-        "full_name": "atom/atom",
-        "html_url": "https://github.com/atom/atom",
-        "stars": 51665,
-        "forks": 14349
+        "name": "tutanota",
+        "url": "https://api.github.com/repos/tutao/tutanota",
+        "full_name": "tutao/tutanota",
+        "html_url": "https://github.com/tutao/tutanota",
+        "stars": 3230,
+        "forks": 353
     },
     {
-        "name": "knex",
-        "url": "https://api.github.com/repos/knex/knex",
-        "full_name": "knex/knex",
-        "html_url": "https://github.com/knex/knex",
-        "stars": 12006,
-        "forks": 1427
+        "name": "mapshaper",
+        "url": "https://api.github.com/repos/mbloch/mapshaper",
+        "full_name": "mbloch/mapshaper",
+        "html_url": "https://github.com/mbloch/mapshaper",
+        "stars": 2191,
+        "forks": 367
     },
     {
-        "name": "devtools-frontend",
-        "url": "https://api.github.com/repos/ChromeDevTools/devtools-frontend",
-        "full_name": "ChromeDevTools/devtools-frontend",
-        "html_url": "https://github.com/ChromeDevTools/devtools-frontend",
-        "stars": 1386,
-        "forks": 216
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 17249,
+        "forks": 12086
+    },
+    {
+        "name": "gatsby-starter-blog",
+        "url": "https://api.github.com/repos/gatsbyjs/gatsby-starter-blog",
+        "full_name": "gatsbyjs/gatsby-starter-blog",
+        "html_url": "https://github.com/gatsbyjs/gatsby-starter-blog",
+        "stars": 2411,
+        "forks": 1090
+    },
+    {
+        "name": "openui5",
+        "url": "https://api.github.com/repos/SAP/openui5",
+        "full_name": "SAP/openui5",
+        "html_url": "https://github.com/SAP/openui5",
+        "stars": 2155,
+        "forks": 1080
+    },
+    {
+        "name": "uBlock",
+        "url": "https://api.github.com/repos/gorhill/uBlock",
+        "full_name": "gorhill/uBlock",
+        "html_url": "https://github.com/gorhill/uBlock",
+        "stars": 20029,
+        "forks": 1642
+    },
+    {
+        "name": "iptv",
+        "url": "https://api.github.com/repos/iptv-org/iptv",
+        "full_name": "iptv-org/iptv",
+        "html_url": "https://github.com/iptv-org/iptv",
+        "stars": 14721,
+        "forks": 2146
+    },
+    {
+        "name": "countly-server",
+        "url": "https://api.github.com/repos/Countly/countly-server",
+        "full_name": "Countly/countly-server",
+        "html_url": "https://github.com/Countly/countly-server",
+        "stars": 4394,
+        "forks": 839
+    },
+    {
+        "name": "mathjs",
+        "url": "https://api.github.com/repos/josdejong/mathjs",
+        "full_name": "josdejong/mathjs",
+        "html_url": "https://github.com/josdejong/mathjs",
+        "stars": 9698,
+        "forks": 871
+    },
+    {
+        "name": "30-seconds-of-code",
+        "url": "https://api.github.com/repos/30-seconds/30-seconds-of-code",
+        "full_name": "30-seconds/30-seconds-of-code",
+        "html_url": "https://github.com/30-seconds/30-seconds-of-code",
+        "stars": 55830,
+        "forks": 6202
+    },
+    {
+        "name": "awx",
+        "url": "https://api.github.com/repos/ansible/awx",
+        "full_name": "ansible/awx",
+        "html_url": "https://github.com/ansible/awx",
+        "stars": 7603,
+        "forks": 1893
+    },
+    {
+        "name": "react-native-reanimated",
+        "url": "https://api.github.com/repos/software-mansion/react-native-reanimated",
+        "full_name": "software-mansion/react-native-reanimated",
+        "html_url": "https://github.com/software-mansion/react-native-reanimated",
+        "stars": 2754,
+        "forks": 319
+    },
+    {
+        "name": "gatsby",
+        "url": "https://api.github.com/repos/gatsbyjs/gatsby",
+        "full_name": "gatsbyjs/gatsby",
+        "html_url": "https://github.com/gatsbyjs/gatsby",
+        "stars": 43574,
+        "forks": 7785
+    },
+    {
+        "name": "gutenberg",
+        "url": "https://api.github.com/repos/WordPress/gutenberg",
+        "full_name": "WordPress/gutenberg",
+        "html_url": "https://github.com/WordPress/gutenberg",
+        "stars": 5736,
+        "forks": 1851
+    },
+    {
+        "name": "react-pixi",
+        "url": "https://api.github.com/repos/inlet/react-pixi",
+        "full_name": "inlet/react-pixi",
+        "html_url": "https://github.com/inlet/react-pixi",
+        "stars": 716,
+        "forks": 75
+    },
+    {
+        "name": "hexo-helper-live2d",
+        "url": "https://api.github.com/repos/EYHN/hexo-helper-live2d",
+        "full_name": "EYHN/hexo-helper-live2d",
+        "html_url": "https://github.com/EYHN/hexo-helper-live2d",
+        "stars": 2915,
+        "forks": 405
+    },
+    {
+        "name": "jitsi-meet",
+        "url": "https://api.github.com/repos/jitsi/jitsi-meet",
+        "full_name": "jitsi/jitsi-meet",
+        "html_url": "https://github.com/jitsi/jitsi-meet",
+        "stars": 9736,
+        "forks": 2594
+    },
+    {
+        "name": "covid19india-react",
+        "url": "https://api.github.com/repos/covid19india/covid19india-react",
+        "full_name": "covid19india/covid19india-react",
+        "html_url": "https://github.com/covid19india/covid19india-react",
+        "stars": 2379,
+        "forks": 1484
+    },
+    {
+        "name": "preact-cli",
+        "url": "https://api.github.com/repos/preactjs/preact-cli",
+        "full_name": "preactjs/preact-cli",
+        "html_url": "https://github.com/preactjs/preact-cli",
+        "stars": 4117,
+        "forks": 340
+    },
+    {
+        "name": "alita",
+        "url": "https://api.github.com/repos/areslabs/alita",
+        "full_name": "areslabs/alita",
+        "html_url": "https://github.com/areslabs/alita",
+        "stars": 1322,
+        "forks": 85
+    },
+    {
+        "name": "geonode",
+        "url": "https://api.github.com/repos/GeoNode/geonode",
+        "full_name": "GeoNode/geonode",
+        "html_url": "https://github.com/GeoNode/geonode",
+        "stars": 866,
+        "forks": 790
+    },
+    {
+        "name": "useWorker",
+        "url": "https://api.github.com/repos/alewin/useWorker",
+        "full_name": "alewin/useWorker",
+        "html_url": "https://github.com/alewin/useWorker",
+        "stars": 761,
+        "forks": 19
+    },
+    {
+        "name": "node",
+        "url": "https://api.github.com/repos/nodejs/node",
+        "full_name": "nodejs/node",
+        "html_url": "https://github.com/nodejs/node",
+        "stars": 69153,
+        "forks": 16672
+    },
+    {
+        "name": "strapi",
+        "url": "https://api.github.com/repos/strapi/strapi",
+        "full_name": "strapi/strapi",
+        "html_url": "https://github.com/strapi/strapi",
+        "stars": 23491,
+        "forks": 2813
+    },
+    {
+        "name": "vexflow",
+        "url": "https://api.github.com/repos/0xfe/vexflow",
+        "full_name": "0xfe/vexflow",
+        "html_url": "https://github.com/0xfe/vexflow",
+        "stars": 2621,
+        "forks": 506
+    },
+    {
+        "name": "react",
+        "url": "https://api.github.com/repos/facebook/react",
+        "full_name": "facebook/react",
+        "html_url": "https://github.com/facebook/react",
+        "stars": 146989,
+        "forks": 28419
     }
 ]
