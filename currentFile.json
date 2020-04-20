@@ -1,75 +1,11 @@
 [
     {
-        "name": "openzeppelin-contracts",
-        "url": "https://api.github.com/repos/OpenZeppelin/openzeppelin-contracts",
-        "full_name": "OpenZeppelin/openzeppelin-contracts",
-        "html_url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-        "stars": 7977,
-        "forks": 3230
-    },
-    {
-        "name": "openui5",
-        "url": "https://api.github.com/repos/SAP/openui5",
-        "full_name": "SAP/openui5",
-        "html_url": "https://github.com/SAP/openui5",
-        "stars": 2159,
-        "forks": 1083
-    },
-    {
-        "name": "redux-loop",
-        "url": "https://api.github.com/repos/redux-loop/redux-loop",
-        "full_name": "redux-loop/redux-loop",
-        "html_url": "https://github.com/redux-loop/redux-loop",
-        "stars": 1880,
-        "forks": 138
-    },
-    {
-        "name": "odoo",
-        "url": "https://api.github.com/repos/odoo/odoo",
-        "full_name": "odoo/odoo",
-        "html_url": "https://github.com/odoo/odoo",
-        "stars": 17279,
-        "forks": 12102
-    },
-    {
-        "name": "metamask-extension",
-        "url": "https://api.github.com/repos/MetaMask/metamask-extension",
-        "full_name": "MetaMask/metamask-extension",
-        "html_url": "https://github.com/MetaMask/metamask-extension",
-        "stars": 3636,
-        "forks": 1353
-    },
-    {
-        "name": "puppeteer",
-        "url": "https://api.github.com/repos/puppeteer/puppeteer",
-        "full_name": "puppeteer/puppeteer",
-        "html_url": "https://github.com/puppeteer/puppeteer",
-        "stars": 60462,
-        "forks": 6175
-    },
-    {
-        "name": "plotly.js",
-        "url": "https://api.github.com/repos/plotly/plotly.js",
-        "full_name": "plotly/plotly.js",
-        "html_url": "https://github.com/plotly/plotly.js",
-        "stars": 11525,
-        "forks": 1364
-    },
-    {
-        "name": "vuex",
-        "url": "https://api.github.com/repos/vuejs/vuex",
-        "full_name": "vuejs/vuex",
-        "html_url": "https://github.com/vuejs/vuex",
-        "stars": 23453,
-        "forks": 7799
-    },
-    {
-        "name": "Gladys",
-        "url": "https://api.github.com/repos/GladysAssistant/Gladys",
-        "full_name": "GladysAssistant/Gladys",
-        "html_url": "https://github.com/GladysAssistant/Gladys",
-        "stars": 1347,
-        "forks": 197
+        "name": "buster",
+        "url": "https://api.github.com/repos/dessant/buster",
+        "full_name": "dessant/buster",
+        "html_url": "https://github.com/dessant/buster",
+        "stars": 2234,
+        "forks": 157
     },
     {
         "name": "pxt",
@@ -80,163 +16,227 @@
         "forks": 365
     },
     {
-        "name": "habitica",
-        "url": "https://api.github.com/repos/HabitRPG/habitica",
-        "full_name": "HabitRPG/habitica",
-        "html_url": "https://github.com/HabitRPG/habitica",
-        "stars": 7502,
-        "forks": 3034
+        "name": "sass-loader",
+        "url": "https://api.github.com/repos/webpack-contrib/sass-loader",
+        "full_name": "webpack-contrib/sass-loader",
+        "html_url": "https://github.com/webpack-contrib/sass-loader",
+        "stars": 3401,
+        "forks": 357
+    },
+    {
+        "name": "san",
+        "url": "https://api.github.com/repos/baidu/san",
+        "full_name": "baidu/san",
+        "html_url": "https://github.com/baidu/san",
+        "stars": 4116,
+        "forks": 471
+    },
+    {
+        "name": "gestalt",
+        "url": "https://api.github.com/repos/pinterest/gestalt",
+        "full_name": "pinterest/gestalt",
+        "html_url": "https://github.com/pinterest/gestalt",
+        "stars": 3468,
+        "forks": 232
+    },
+    {
+        "name": "playwright",
+        "url": "https://api.github.com/repos/microsoft/playwright",
+        "full_name": "microsoft/playwright",
+        "html_url": "https://github.com/microsoft/playwright",
+        "stars": 11390,
+        "forks": 304
+    },
+    {
+        "name": "litegraph.js",
+        "url": "https://api.github.com/repos/jagenjo/litegraph.js",
+        "full_name": "jagenjo/litegraph.js",
+        "html_url": "https://github.com/jagenjo/litegraph.js",
+        "stars": 1691,
+        "forks": 161
+    },
+    {
+        "name": "bootstrap-table",
+        "url": "https://api.github.com/repos/wenzhixin/bootstrap-table",
+        "full_name": "wenzhixin/bootstrap-table",
+        "html_url": "https://github.com/wenzhixin/bootstrap-table",
+        "stars": 10174,
+        "forks": 4108
+    },
+    {
+        "name": "react-archer",
+        "url": "https://api.github.com/repos/pierpo/react-archer",
+        "full_name": "pierpo/react-archer",
+        "html_url": "https://github.com/pierpo/react-archer",
+        "stars": 539,
+        "forks": 50
+    },
+    {
+        "name": "site-kit-wp",
+        "url": "https://api.github.com/repos/google/site-kit-wp",
+        "full_name": "google/site-kit-wp",
+        "html_url": "https://github.com/google/site-kit-wp",
+        "stars": 840,
+        "forks": 129
+    },
+    {
+        "name": "web-scrobbler",
+        "url": "https://api.github.com/repos/web-scrobbler/web-scrobbler",
+        "full_name": "web-scrobbler/web-scrobbler",
+        "html_url": "https://github.com/web-scrobbler/web-scrobbler",
+        "stars": 1408,
+        "forks": 390
     },
     {
         "name": "react",
         "url": "https://api.github.com/repos/facebook/react",
         "full_name": "facebook/react",
         "html_url": "https://github.com/facebook/react",
-        "stars": 147220,
-        "forks": 28459
+        "stars": 147223,
+        "forks": 28461
     },
     {
-        "name": "freeCodeCamp",
-        "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
-        "full_name": "freeCodeCamp/freeCodeCamp",
-        "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
-        "stars": 310043,
-        "forks": 23929
+        "name": "devtools-frontend",
+        "url": "https://api.github.com/repos/ChromeDevTools/devtools-frontend",
+        "full_name": "ChromeDevTools/devtools-frontend",
+        "html_url": "https://github.com/ChromeDevTools/devtools-frontend",
+        "stars": 1391,
+        "forks": 216
     },
     {
-        "name": "DevExtreme",
-        "url": "https://api.github.com/repos/DevExpress/DevExtreme",
-        "full_name": "DevExpress/DevExtreme",
-        "html_url": "https://github.com/DevExpress/DevExtreme",
-        "stars": 1183,
-        "forks": 331
+        "name": "jsxgraph",
+        "url": "https://api.github.com/repos/jsxgraph/jsxgraph",
+        "full_name": "jsxgraph/jsxgraph",
+        "html_url": "https://github.com/jsxgraph/jsxgraph",
+        "stars": 516,
+        "forks": 116
     },
     {
-        "name": "LimeSurvey",
-        "url": "https://api.github.com/repos/LimeSurvey/LimeSurvey",
-        "full_name": "LimeSurvey/LimeSurvey",
-        "html_url": "https://github.com/LimeSurvey/LimeSurvey",
-        "stars": 1457,
-        "forks": 694
+        "name": "pokemon-showdown",
+        "url": "https://api.github.com/repos/smogon/pokemon-showdown",
+        "full_name": "smogon/pokemon-showdown",
+        "html_url": "https://github.com/smogon/pokemon-showdown",
+        "stars": 2636,
+        "forks": 1689
     },
     {
-        "name": "spectacle",
-        "url": "https://api.github.com/repos/FormidableLabs/spectacle",
-        "full_name": "FormidableLabs/spectacle",
-        "html_url": "https://github.com/FormidableLabs/spectacle",
-        "stars": 8391,
-        "forks": 611
+        "name": "Sabaki",
+        "url": "https://api.github.com/repos/SabakiHQ/Sabaki",
+        "full_name": "SabakiHQ/Sabaki",
+        "html_url": "https://github.com/SabakiHQ/Sabaki",
+        "stars": 1113,
+        "forks": 215
     },
     {
-        "name": "browser-compat-data",
-        "url": "https://api.github.com/repos/mdn/browser-compat-data",
-        "full_name": "mdn/browser-compat-data",
-        "html_url": "https://github.com/mdn/browser-compat-data",
-        "stars": 2660,
-        "forks": 1169
+        "name": "webdriverio",
+        "url": "https://api.github.com/repos/webdriverio/webdriverio",
+        "full_name": "webdriverio/webdriverio",
+        "html_url": "https://github.com/webdriverio/webdriverio",
+        "stars": 5622,
+        "forks": 1645
     },
     {
-        "name": "scans",
-        "url": "https://api.github.com/repos/cloudsploit/scans",
-        "full_name": "cloudsploit/scans",
-        "html_url": "https://github.com/cloudsploit/scans",
-        "stars": 949,
-        "forks": 205
-    },
-    {
-        "name": "bootstrap-vue",
-        "url": "https://api.github.com/repos/bootstrap-vue/bootstrap-vue",
-        "full_name": "bootstrap-vue/bootstrap-vue",
-        "html_url": "https://github.com/bootstrap-vue/bootstrap-vue",
-        "stars": 11295,
-        "forks": 1528
+        "name": "awx",
+        "url": "https://api.github.com/repos/ansible/awx",
+        "full_name": "ansible/awx",
+        "html_url": "https://github.com/ansible/awx",
+        "stars": 7628,
+        "forks": 1905
     },
     {
         "name": "TiddlyWiki5",
         "url": "https://api.github.com/repos/Jermolene/TiddlyWiki5",
         "full_name": "Jermolene/TiddlyWiki5",
         "html_url": "https://github.com/Jermolene/TiddlyWiki5",
-        "stars": 4711,
+        "stars": 4712,
         "forks": 865
     },
     {
-        "name": "framework7",
-        "url": "https://api.github.com/repos/framework7io/framework7",
-        "full_name": "framework7io/framework7",
-        "html_url": "https://github.com/framework7io/framework7",
-        "stars": 15364,
-        "forks": 3185
+        "name": "carbon",
+        "url": "https://api.github.com/repos/carbon-design-system/carbon",
+        "full_name": "carbon-design-system/carbon",
+        "html_url": "https://github.com/carbon-design-system/carbon",
+        "stars": 2909,
+        "forks": 648
     },
     {
-        "name": "cors",
-        "url": "https://api.github.com/repos/expressjs/cors",
-        "full_name": "expressjs/cors",
-        "html_url": "https://github.com/expressjs/cors",
-        "stars": 4424,
-        "forks": 329
+        "name": "jquery",
+        "url": "https://api.github.com/repos/jquery/jquery",
+        "full_name": "jquery/jquery",
+        "html_url": "https://github.com/jquery/jquery",
+        "stars": 53187,
+        "forks": 19243
     },
     {
-        "name": "bypass-paywalls-chrome",
-        "url": "https://api.github.com/repos/iamadamdev/bypass-paywalls-chrome",
-        "full_name": "iamadamdev/bypass-paywalls-chrome",
-        "html_url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
-        "stars": 4136,
-        "forks": 305
+        "name": "wire-webapp",
+        "url": "https://api.github.com/repos/wireapp/wire-webapp",
+        "full_name": "wireapp/wire-webapp",
+        "html_url": "https://github.com/wireapp/wire-webapp",
+        "stars": 928,
+        "forks": 228
     },
     {
-        "name": "storefront-ui",
-        "url": "https://api.github.com/repos/DivanteLtd/storefront-ui",
-        "full_name": "DivanteLtd/storefront-ui",
-        "html_url": "https://github.com/DivanteLtd/storefront-ui",
-        "stars": 1171,
-        "forks": 192
+        "name": "babel",
+        "url": "https://api.github.com/repos/babel/babel",
+        "full_name": "babel/babel",
+        "html_url": "https://github.com/babel/babel",
+        "stars": 36337,
+        "forks": 4223
     },
     {
-        "name": "emacs-application-framework",
-        "url": "https://api.github.com/repos/manateelazycat/emacs-application-framework",
-        "full_name": "manateelazycat/emacs-application-framework",
-        "html_url": "https://github.com/manateelazycat/emacs-application-framework",
-        "stars": 954,
-        "forks": 73
+        "name": "opendatacam",
+        "url": "https://api.github.com/repos/opendatacam/opendatacam",
+        "full_name": "opendatacam/opendatacam",
+        "html_url": "https://github.com/opendatacam/opendatacam",
+        "stars": 775,
+        "forks": 130
     },
     {
-        "name": "chinese-independent-blogs",
-        "url": "https://api.github.com/repos/timqian/chinese-independent-blogs",
-        "full_name": "timqian/chinese-independent-blogs",
-        "html_url": "https://github.com/timqian/chinese-independent-blogs",
-        "stars": 4471,
-        "forks": 567
+        "name": "react-rainbow",
+        "url": "https://api.github.com/repos/nexxtway/react-rainbow",
+        "full_name": "nexxtway/react-rainbow",
+        "html_url": "https://github.com/nexxtway/react-rainbow",
+        "stars": 1274,
+        "forks": 62
     },
     {
-        "name": "wp-calypso",
-        "url": "https://api.github.com/repos/Automattic/wp-calypso",
-        "full_name": "Automattic/wp-calypso",
-        "html_url": "https://github.com/Automattic/wp-calypso",
-        "stars": 11428,
-        "forks": 1740
+        "name": "data_location",
+        "url": "https://api.github.com/repos/mumuy/data_location",
+        "full_name": "mumuy/data_location",
+        "html_url": "https://github.com/mumuy/data_location",
+        "stars": 2126,
+        "forks": 420
     },
     {
-        "name": "gatsby",
-        "url": "https://api.github.com/repos/gatsbyjs/gatsby",
-        "full_name": "gatsbyjs/gatsby",
-        "html_url": "https://github.com/gatsbyjs/gatsby",
-        "stars": 43660,
-        "forks": 7817
+        "name": "node-fetch",
+        "url": "https://api.github.com/repos/node-fetch/node-fetch",
+        "full_name": "node-fetch/node-fetch",
+        "html_url": "https://github.com/node-fetch/node-fetch",
+        "stars": 4905,
+        "forks": 492
     },
     {
-        "name": "JavaScript-Load-Image",
-        "url": "https://api.github.com/repos/blueimp/JavaScript-Load-Image",
-        "full_name": "blueimp/JavaScript-Load-Image",
-        "html_url": "https://github.com/blueimp/JavaScript-Load-Image",
-        "stars": 3841,
-        "forks": 898
+        "name": "openapi-directory",
+        "url": "https://api.github.com/repos/APIs-guru/openapi-directory",
+        "full_name": "APIs-guru/openapi-directory",
+        "html_url": "https://github.com/APIs-guru/openapi-directory",
+        "stars": 1869,
+        "forks": 341
     },
     {
-        "name": "web",
-        "url": "https://api.github.com/repos/gitcoinco/web",
-        "full_name": "gitcoinco/web",
-        "html_url": "https://github.com/gitcoinco/web",
-        "stars": 882,
-        "forks": 513
+        "name": "spine-runtimes",
+        "url": "https://api.github.com/repos/EsotericSoftware/spine-runtimes",
+        "full_name": "EsotericSoftware/spine-runtimes",
+        "html_url": "https://github.com/EsotericSoftware/spine-runtimes",
+        "stars": 2531,
+        "forks": 2215
+    },
+    {
+        "name": "react-jsonschema-form",
+        "url": "https://api.github.com/repos/rjsf-team/react-jsonschema-form",
+        "full_name": "rjsf-team/react-jsonschema-form",
+        "html_url": "https://github.com/rjsf-team/react-jsonschema-form",
+        "stars": 8308,
+        "forks": 1322
     }
 ]
