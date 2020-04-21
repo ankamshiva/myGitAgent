@@ -1,43 +1,123 @@
 [
     {
-        "name": "why-did-you-render",
-        "url": "https://api.github.com/repos/welldone-software/why-did-you-render",
-        "full_name": "welldone-software/why-did-you-render",
-        "html_url": "https://github.com/welldone-software/why-did-you-render",
-        "stars": 3100,
-        "forks": 58
+        "name": "brave-browser",
+        "url": "https://api.github.com/repos/brave/brave-browser",
+        "full_name": "brave/brave-browser",
+        "html_url": "https://github.com/brave/brave-browser",
+        "stars": 5799,
+        "forks": 573
     },
     {
-        "name": "odoo",
-        "url": "https://api.github.com/repos/odoo/odoo",
-        "full_name": "odoo/odoo",
-        "html_url": "https://github.com/odoo/odoo",
-        "stars": 17285,
-        "forks": 12109
+        "name": "relay",
+        "url": "https://api.github.com/repos/facebook/relay",
+        "full_name": "facebook/relay",
+        "html_url": "https://github.com/facebook/relay",
+        "stars": 14325,
+        "forks": 1436
     },
     {
-        "name": "pxt",
-        "url": "https://api.github.com/repos/microsoft/pxt",
-        "full_name": "microsoft/pxt",
-        "html_url": "https://github.com/microsoft/pxt",
-        "stars": 1179,
-        "forks": 366
+        "name": "enzyme",
+        "url": "https://api.github.com/repos/enzymejs/enzyme",
+        "full_name": "enzymejs/enzyme",
+        "html_url": "https://github.com/enzymejs/enzyme",
+        "stars": 18676,
+        "forks": 2046
     },
     {
-        "name": "sendgrid-nodejs",
-        "url": "https://api.github.com/repos/sendgrid/sendgrid-nodejs",
-        "full_name": "sendgrid/sendgrid-nodejs",
-        "html_url": "https://github.com/sendgrid/sendgrid-nodejs",
-        "stars": 1946,
-        "forks": 579
+        "name": "DevExtreme",
+        "url": "https://api.github.com/repos/DevExpress/DevExtreme",
+        "full_name": "DevExpress/DevExtreme",
+        "html_url": "https://github.com/DevExpress/DevExtreme",
+        "stars": 1182,
+        "forks": 332
     },
     {
-        "name": "Universal-Bypass",
-        "url": "https://api.github.com/repos/Sainan/Universal-Bypass",
-        "full_name": "Sainan/Universal-Bypass",
-        "html_url": "https://github.com/Sainan/Universal-Bypass",
-        "stars": 578,
-        "forks": 116
+        "name": "next.js",
+        "url": "https://api.github.com/repos/zeit/next.js",
+        "full_name": "zeit/next.js",
+        "html_url": "https://github.com/zeit/next.js",
+        "stars": 47154,
+        "forks": 6927
+    },
+    {
+        "name": "spreed",
+        "url": "https://api.github.com/repos/nextcloud/spreed",
+        "full_name": "nextcloud/spreed",
+        "html_url": "https://github.com/nextcloud/spreed",
+        "stars": 711,
+        "forks": 179
+    },
+    {
+        "name": "node",
+        "url": "https://api.github.com/repos/nodejs/node",
+        "full_name": "nodejs/node",
+        "html_url": "https://github.com/nodejs/node",
+        "stars": 69299,
+        "forks": 16728
+    },
+    {
+        "name": "privacybadger",
+        "url": "https://api.github.com/repos/EFForg/privacybadger",
+        "full_name": "EFForg/privacybadger",
+        "html_url": "https://github.com/EFForg/privacybadger",
+        "stars": 1743,
+        "forks": 297
+    },
+    {
+        "name": "jstat",
+        "url": "https://api.github.com/repos/jstat/jstat",
+        "full_name": "jstat/jstat",
+        "html_url": "https://github.com/jstat/jstat",
+        "stars": 1424,
+        "forks": 220
+    },
+    {
+        "name": "stdlib",
+        "url": "https://api.github.com/repos/stdlib-js/stdlib",
+        "full_name": "stdlib-js/stdlib",
+        "html_url": "https://github.com/stdlib-js/stdlib",
+        "stars": 2236,
+        "forks": 117
+    },
+    {
+        "name": "bitcore",
+        "url": "https://api.github.com/repos/bitpay/bitcore",
+        "full_name": "bitpay/bitcore",
+        "html_url": "https://github.com/bitpay/bitcore",
+        "stars": 3597,
+        "forks": 1556
+    },
+    {
+        "name": "ccxt",
+        "url": "https://api.github.com/repos/ccxt/ccxt",
+        "full_name": "ccxt/ccxt",
+        "html_url": "https://github.com/ccxt/ccxt",
+        "stars": 13591,
+        "forks": 3830
+    },
+    {
+        "name": "awx",
+        "url": "https://api.github.com/repos/ansible/awx",
+        "full_name": "ansible/awx",
+        "html_url": "https://github.com/ansible/awx",
+        "stars": 7632,
+        "forks": 1908
+    },
+    {
+        "name": "Ghost",
+        "url": "https://api.github.com/repos/TryGhost/Ghost",
+        "full_name": "TryGhost/Ghost",
+        "html_url": "https://github.com/TryGhost/Ghost",
+        "stars": 33367,
+        "forks": 7263
+    },
+    {
+        "name": "saasify",
+        "url": "https://api.github.com/repos/saasify-sh/saasify",
+        "full_name": "saasify-sh/saasify",
+        "html_url": "https://github.com/saasify-sh/saasify",
+        "stars": 693,
+        "forks": 31
     },
     {
         "name": "code-dot-org",
@@ -48,148 +128,36 @@
         "forks": 319
     },
     {
-        "name": "amphtml",
-        "url": "https://api.github.com/repos/ampproject/amphtml",
-        "full_name": "ampproject/amphtml",
-        "html_url": "https://github.com/ampproject/amphtml",
-        "stars": 13577,
-        "forks": 3456
+        "name": "gatsby",
+        "url": "https://api.github.com/repos/gatsbyjs/gatsby",
+        "full_name": "gatsbyjs/gatsby",
+        "html_url": "https://github.com/gatsbyjs/gatsby",
+        "stars": 43693,
+        "forks": 7825
     },
     {
-        "name": "CoCoMusic",
-        "url": "https://api.github.com/repos/xtuJSer/CoCoMusic",
-        "full_name": "xtuJSer/CoCoMusic",
-        "html_url": "https://github.com/xtuJSer/CoCoMusic",
-        "stars": 835,
-        "forks": 110
+        "name": "lossless-cut",
+        "url": "https://api.github.com/repos/mifi/lossless-cut",
+        "full_name": "mifi/lossless-cut",
+        "html_url": "https://github.com/mifi/lossless-cut",
+        "stars": 3858,
+        "forks": 229
     },
     {
-        "name": "cypress",
-        "url": "https://api.github.com/repos/cypress-io/cypress",
-        "full_name": "cypress-io/cypress",
-        "html_url": "https://github.com/cypress-io/cypress",
-        "stars": 19637,
-        "forks": 1172
+        "name": "bootstrap-select",
+        "url": "https://api.github.com/repos/snapappointments/bootstrap-select",
+        "full_name": "snapappointments/bootstrap-select",
+        "html_url": "https://github.com/snapappointments/bootstrap-select",
+        "stars": 8801,
+        "forks": 2577
     },
     {
-        "name": "primereact",
-        "url": "https://api.github.com/repos/primefaces/primereact",
-        "full_name": "primefaces/primereact",
-        "html_url": "https://github.com/primefaces/primereact",
-        "stars": 1309,
-        "forks": 325
-    },
-    {
-        "name": "fusionjs",
-        "url": "https://api.github.com/repos/fusionjs/fusionjs",
-        "full_name": "fusionjs/fusionjs",
-        "html_url": "https://github.com/fusionjs/fusionjs",
-        "stars": 1209,
-        "forks": 113
-    },
-    {
-        "name": "node",
-        "url": "https://api.github.com/repos/nodejs/node",
-        "full_name": "nodejs/node",
-        "html_url": "https://github.com/nodejs/node",
-        "stars": 69295,
-        "forks": 16726
-    },
-    {
-        "name": "franz",
-        "url": "https://api.github.com/repos/meetfranz/franz",
-        "full_name": "meetfranz/franz",
-        "html_url": "https://github.com/meetfranz/franz",
-        "stars": 3738,
-        "forks": 521
-    },
-    {
-        "name": "gestalt",
-        "url": "https://api.github.com/repos/pinterest/gestalt",
-        "full_name": "pinterest/gestalt",
-        "html_url": "https://github.com/pinterest/gestalt",
-        "stars": 3471,
-        "forks": 232
-    },
-    {
-        "name": "reef",
-        "url": "https://api.github.com/repos/cferdinandi/reef",
-        "full_name": "cferdinandi/reef",
-        "html_url": "https://github.com/cferdinandi/reef",
-        "stars": 510,
-        "forks": 25
-    },
-    {
-        "name": "ferdi",
-        "url": "https://api.github.com/repos/getferdi/ferdi",
-        "full_name": "getferdi/ferdi",
-        "html_url": "https://github.com/getferdi/ferdi",
-        "stars": 899,
-        "forks": 68
-    },
-    {
-        "name": "luci",
-        "url": "https://api.github.com/repos/openwrt/luci",
-        "full_name": "openwrt/luci",
-        "html_url": "https://github.com/openwrt/luci",
-        "stars": 2553,
-        "forks": 1302
-    },
-    {
-        "name": "bootstrap-vue",
-        "url": "https://api.github.com/repos/bootstrap-vue/bootstrap-vue",
-        "full_name": "bootstrap-vue/bootstrap-vue",
-        "html_url": "https://github.com/bootstrap-vue/bootstrap-vue",
-        "stars": 11299,
-        "forks": 1531
-    },
-    {
-        "name": "prettier",
-        "url": "https://api.github.com/repos/prettier/prettier",
-        "full_name": "prettier/prettier",
-        "html_url": "https://github.com/prettier/prettier",
-        "stars": 36184,
-        "forks": 2294
-    },
-    {
-        "name": "ring-ui",
-        "url": "https://api.github.com/repos/JetBrains/ring-ui",
-        "full_name": "JetBrains/ring-ui",
-        "html_url": "https://github.com/JetBrains/ring-ui",
-        "stars": 2398,
-        "forks": 130
-    },
-    {
-        "name": "react-bilibili",
-        "url": "https://api.github.com/repos/code-mcx/react-bilibili",
-        "full_name": "code-mcx/react-bilibili",
-        "html_url": "https://github.com/code-mcx/react-bilibili",
-        "stars": 603,
-        "forks": 135
-    },
-    {
-        "name": "lando",
-        "url": "https://api.github.com/repos/lando/lando",
-        "full_name": "lando/lando",
-        "html_url": "https://github.com/lando/lando",
-        "stars": 2164,
-        "forks": 381
-    },
-    {
-        "name": "material-ui",
-        "url": "https://api.github.com/repos/mui-org/material-ui",
-        "full_name": "mui-org/material-ui",
-        "html_url": "https://github.com/mui-org/material-ui",
-        "stars": 56561,
-        "forks": 15573
-    },
-    {
-        "name": "cryptpad",
-        "url": "https://api.github.com/repos/xwiki-labs/cryptpad",
-        "full_name": "xwiki-labs/cryptpad",
-        "html_url": "https://github.com/xwiki-labs/cryptpad",
-        "stars": 1736,
-        "forks": 218
+        "name": "axe-core",
+        "url": "https://api.github.com/repos/dequelabs/axe-core",
+        "full_name": "dequelabs/axe-core",
+        "html_url": "https://github.com/dequelabs/axe-core",
+        "stars": 2938,
+        "forks": 397
     },
     {
         "name": "Blot",
@@ -200,43 +168,75 @@
         "forks": 41
     },
     {
-        "name": "node-source-map-support",
-        "url": "https://api.github.com/repos/evanw/node-source-map-support",
-        "full_name": "evanw/node-source-map-support",
-        "html_url": "https://github.com/evanw/node-source-map-support",
-        "stars": 1615,
-        "forks": 208
+        "name": "material-ui",
+        "url": "https://api.github.com/repos/mui-org/material-ui",
+        "full_name": "mui-org/material-ui",
+        "html_url": "https://github.com/mui-org/material-ui",
+        "stars": 56563,
+        "forks": 15576
     },
     {
-        "name": "sweetalert2",
-        "url": "https://api.github.com/repos/sweetalert2/sweetalert2",
-        "full_name": "sweetalert2/sweetalert2",
-        "html_url": "https://github.com/sweetalert2/sweetalert2",
-        "stars": 11057,
-        "forks": 1205
+        "name": "aria-practices",
+        "url": "https://api.github.com/repos/w3c/aria-practices",
+        "full_name": "w3c/aria-practices",
+        "html_url": "https://github.com/w3c/aria-practices",
+        "stars": 509,
+        "forks": 114
     },
     {
-        "name": "espocrm",
-        "url": "https://api.github.com/repos/espocrm/espocrm",
-        "full_name": "espocrm/espocrm",
-        "html_url": "https://github.com/espocrm/espocrm",
-        "stars": 597,
-        "forks": 278
+        "name": "react-native-ui-lib",
+        "url": "https://api.github.com/repos/wix/react-native-ui-lib",
+        "full_name": "wix/react-native-ui-lib",
+        "html_url": "https://github.com/wix/react-native-ui-lib",
+        "stars": 2168,
+        "forks": 263
     },
     {
-        "name": "evergreen",
-        "url": "https://api.github.com/repos/segmentio/evergreen",
-        "full_name": "segmentio/evergreen",
-        "html_url": "https://github.com/segmentio/evergreen",
-        "stars": 9360,
-        "forks": 501
+        "name": "Prebid.js",
+        "url": "https://api.github.com/repos/prebid/Prebid.js",
+        "full_name": "prebid/Prebid.js",
+        "html_url": "https://github.com/prebid/Prebid.js",
+        "stars": 905,
+        "forks": 1190
+    },
+    {
+        "name": "workbox",
+        "url": "https://api.github.com/repos/GoogleChrome/workbox",
+        "full_name": "GoogleChrome/workbox",
+        "html_url": "https://github.com/GoogleChrome/workbox",
+        "stars": 9078,
+        "forks": 585
+    },
+    {
+        "name": "ol-ext",
+        "url": "https://api.github.com/repos/Viglino/ol-ext",
+        "full_name": "Viglino/ol-ext",
+        "html_url": "https://github.com/Viglino/ol-ext",
+        "stars": 563,
+        "forks": 260
+    },
+    {
+        "name": "Detox",
+        "url": "https://api.github.com/repos/wix/Detox",
+        "full_name": "wix/Detox",
+        "html_url": "https://github.com/wix/Detox",
+        "stars": 6213,
+        "forks": 1155
+    },
+    {
+        "name": "jitsi-meet",
+        "url": "https://api.github.com/repos/jitsi/jitsi-meet",
+        "full_name": "jitsi/jitsi-meet",
+        "html_url": "https://github.com/jitsi/jitsi-meet",
+        "stars": 10213,
+        "forks": 2764
     },
     {
         "name": "playwright",
         "url": "https://api.github.com/repos/microsoft/playwright",
         "full_name": "microsoft/playwright",
         "html_url": "https://github.com/microsoft/playwright",
-        "stars": 11417,
-        "forks": 305
+        "stars": 11418,
+        "forks": 306
     }
 ]
