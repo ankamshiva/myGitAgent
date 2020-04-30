@@ -1,11 +1,27 @@
 [
     {
-        "name": "gutenberg",
-        "url": "https://api.github.com/repos/WordPress/gutenberg",
-        "full_name": "WordPress/gutenberg",
-        "html_url": "https://github.com/WordPress/gutenberg",
-        "stars": 5780,
-        "forks": 1877
+        "name": "jitsi-meet",
+        "url": "https://api.github.com/repos/jitsi/jitsi-meet",
+        "full_name": "jitsi/jitsi-meet",
+        "html_url": "https://github.com/jitsi/jitsi-meet",
+        "stars": 10874,
+        "forks": 3005
+    },
+    {
+        "name": "parcel",
+        "url": "https://api.github.com/repos/parcel-bundler/parcel",
+        "full_name": "parcel-bundler/parcel",
+        "html_url": "https://github.com/parcel-bundler/parcel",
+        "stars": 35536,
+        "forks": 1712
+    },
+    {
+        "name": "charts",
+        "url": "https://api.github.com/repos/frappe/charts",
+        "full_name": "frappe/charts",
+        "html_url": "https://github.com/frappe/charts",
+        "stars": 13245,
+        "forks": 563
     },
     {
         "name": "mattermost-webapp",
@@ -16,28 +32,140 @@
         "forks": 1514
     },
     {
-        "name": "pusher-js",
-        "url": "https://api.github.com/repos/pusher/pusher-js",
-        "full_name": "pusher/pusher-js",
-        "html_url": "https://github.com/pusher/pusher-js",
-        "stars": 1406,
-        "forks": 278
+        "name": "learnstorybook.com",
+        "url": "https://api.github.com/repos/chromaui/learnstorybook.com",
+        "full_name": "chromaui/learnstorybook.com",
+        "html_url": "https://github.com/chromaui/learnstorybook.com",
+        "stars": 1659,
+        "forks": 207
     },
     {
-        "name": "hakuneko",
-        "url": "https://api.github.com/repos/manga-download/hakuneko",
-        "full_name": "manga-download/hakuneko",
-        "html_url": "https://github.com/manga-download/hakuneko",
-        "stars": 551,
-        "forks": 79
+        "name": "droppy",
+        "url": "https://api.github.com/repos/silverwind/droppy",
+        "full_name": "silverwind/droppy",
+        "html_url": "https://github.com/silverwind/droppy",
+        "stars": 1181,
+        "forks": 125
     },
     {
-        "name": "whs.js",
-        "url": "https://api.github.com/repos/WhitestormJS/whs.js",
-        "full_name": "WhitestormJS/whs.js",
-        "html_url": "https://github.com/WhitestormJS/whs.js",
-        "stars": 5428,
-        "forks": 374
+        "name": "ac-nh-turnip-prices",
+        "url": "https://api.github.com/repos/mikebryant/ac-nh-turnip-prices",
+        "full_name": "mikebryant/ac-nh-turnip-prices",
+        "html_url": "https://github.com/mikebryant/ac-nh-turnip-prices",
+        "stars": 807,
+        "forks": 185
+    },
+    {
+        "name": "gatsby",
+        "url": "https://api.github.com/repos/gatsbyjs/gatsby",
+        "full_name": "gatsbyjs/gatsby",
+        "html_url": "https://github.com/gatsbyjs/gatsby",
+        "stars": 43930,
+        "forks": 7908
+    },
+    {
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 17340,
+        "forks": 12158
+    },
+    {
+        "name": "docs",
+        "url": "https://api.github.com/repos/leancloud/docs",
+        "full_name": "leancloud/docs",
+        "html_url": "https://github.com/leancloud/docs",
+        "stars": 566,
+        "forks": 256
+    },
+    {
+        "name": "geonode",
+        "url": "https://api.github.com/repos/GeoNode/geonode",
+        "full_name": "GeoNode/geonode",
+        "html_url": "https://github.com/GeoNode/geonode",
+        "stars": 874,
+        "forks": 795
+    },
+    {
+        "name": "quasar",
+        "url": "https://api.github.com/repos/quasarframework/quasar",
+        "full_name": "quasarframework/quasar",
+        "html_url": "https://github.com/quasarframework/quasar",
+        "stars": 14494,
+        "forks": 1637
+    },
+    {
+        "name": "WebGoat",
+        "url": "https://api.github.com/repos/WebGoat/WebGoat",
+        "full_name": "WebGoat/WebGoat",
+        "html_url": "https://github.com/WebGoat/WebGoat",
+        "stars": 3217,
+        "forks": 1411
+    },
+    {
+        "name": "bootstrap",
+        "url": "https://api.github.com/repos/twbs/bootstrap",
+        "full_name": "twbs/bootstrap",
+        "html_url": "https://github.com/twbs/bootstrap",
+        "stars": 140392,
+        "forks": 68688
+    },
+    {
+        "name": "scripts",
+        "url": "https://api.github.com/repos/chavyleung/scripts",
+        "full_name": "chavyleung/scripts",
+        "html_url": "https://github.com/chavyleung/scripts",
+        "stars": 679,
+        "forks": 277
+    },
+    {
+        "name": "website",
+        "url": "https://api.github.com/repos/CodingTrain/website",
+        "full_name": "CodingTrain/website",
+        "html_url": "https://github.com/CodingTrain/website",
+        "stars": 4353,
+        "forks": 4733
+    },
+    {
+        "name": "react-ultimate-resume",
+        "url": "https://api.github.com/repos/welovedevs/react-ultimate-resume",
+        "full_name": "welovedevs/react-ultimate-resume",
+        "html_url": "https://github.com/welovedevs/react-ultimate-resume",
+        "stars": 1356,
+        "forks": 321
+    },
+    {
+        "name": "testcafe",
+        "url": "https://api.github.com/repos/DevExpress/testcafe",
+        "full_name": "DevExpress/testcafe",
+        "html_url": "https://github.com/DevExpress/testcafe",
+        "stars": 8055,
+        "forks": 525
+    },
+    {
+        "name": "miragejs",
+        "url": "https://api.github.com/repos/miragejs/miragejs",
+        "full_name": "miragejs/miragejs",
+        "html_url": "https://github.com/miragejs/miragejs",
+        "stars": 2556,
+        "forks": 70
+    },
+    {
+        "name": "luci",
+        "url": "https://api.github.com/repos/openwrt/luci",
+        "full_name": "openwrt/luci",
+        "html_url": "https://github.com/openwrt/luci",
+        "stars": 2595,
+        "forks": 1309
+    },
+    {
+        "name": "react-i18next",
+        "url": "https://api.github.com/repos/i18next/react-i18next",
+        "full_name": "i18next/react-i18next",
+        "html_url": "https://github.com/i18next/react-i18next",
+        "stars": 4861,
+        "forks": 633
     },
     {
         "name": "Ghost",
@@ -48,195 +176,67 @@
         "forks": 7292
     },
     {
-        "name": "bootstrap-vue",
-        "url": "https://api.github.com/repos/bootstrap-vue/bootstrap-vue",
-        "full_name": "bootstrap-vue/bootstrap-vue",
-        "html_url": "https://github.com/bootstrap-vue/bootstrap-vue",
-        "stars": 11375,
-        "forks": 1536
+        "name": "devtools-frontend",
+        "url": "https://api.github.com/repos/ChromeDevTools/devtools-frontend",
+        "full_name": "ChromeDevTools/devtools-frontend",
+        "html_url": "https://github.com/ChromeDevTools/devtools-frontend",
+        "stars": 1399,
+        "forks": 217
     },
     {
-        "name": "quasar",
-        "url": "https://api.github.com/repos/quasarframework/quasar",
-        "full_name": "quasarframework/quasar",
-        "html_url": "https://github.com/quasarframework/quasar",
-        "stars": 14493,
-        "forks": 1637
+        "name": "puppeteer",
+        "url": "https://api.github.com/repos/puppeteer/puppeteer",
+        "full_name": "puppeteer/puppeteer",
+        "html_url": "https://github.com/puppeteer/puppeteer",
+        "stars": 60816,
+        "forks": 6238
     },
     {
-        "name": "wp-calypso",
-        "url": "https://api.github.com/repos/Automattic/wp-calypso",
-        "full_name": "Automattic/wp-calypso",
-        "html_url": "https://github.com/Automattic/wp-calypso",
-        "stars": 11440,
-        "forks": 1739
+        "name": "RSSHub",
+        "url": "https://api.github.com/repos/DIYgod/RSSHub",
+        "full_name": "DIYgod/RSSHub",
+        "html_url": "https://github.com/DIYgod/RSSHub",
+        "stars": 11636,
+        "forks": 1657
     },
     {
-        "name": "ember-cli",
-        "url": "https://api.github.com/repos/ember-cli/ember-cli",
-        "full_name": "ember-cli/ember-cli",
-        "html_url": "https://github.com/ember-cli/ember-cli",
-        "stars": 3328,
-        "forks": 1145
+        "name": "ava",
+        "url": "https://api.github.com/repos/avajs/ava",
+        "full_name": "avajs/ava",
+        "html_url": "https://github.com/avajs/ava",
+        "stars": 17837,
+        "forks": 1219
     },
     {
-        "name": "jupyterlab",
-        "url": "https://api.github.com/repos/jupyterlab/jupyterlab",
-        "full_name": "jupyterlab/jupyterlab",
-        "html_url": "https://github.com/jupyterlab/jupyterlab",
-        "stars": 9721,
-        "forks": 1606
+        "name": "docusaurus",
+        "url": "https://api.github.com/repos/facebook/docusaurus",
+        "full_name": "facebook/docusaurus",
+        "html_url": "https://github.com/facebook/docusaurus",
+        "stars": 16522,
+        "forks": 1736
     },
     {
-        "name": "joplin",
-        "url": "https://api.github.com/repos/laurent22/joplin",
-        "full_name": "laurent22/joplin",
-        "html_url": "https://github.com/laurent22/joplin",
-        "stars": 15435,
-        "forks": 1584
+        "name": "hiring-without-whiteboards",
+        "url": "https://api.github.com/repos/poteto/hiring-without-whiteboards",
+        "full_name": "poteto/hiring-without-whiteboards",
+        "html_url": "https://github.com/poteto/hiring-without-whiteboards",
+        "stars": 14888,
+        "forks": 1455
     },
     {
-        "name": "prettier-atom",
-        "url": "https://api.github.com/repos/prettier/prettier-atom",
-        "full_name": "prettier/prettier-atom",
-        "html_url": "https://github.com/prettier/prettier-atom",
-        "stars": 734,
-        "forks": 101
+        "name": "pai",
+        "url": "https://api.github.com/repos/microsoft/pai",
+        "full_name": "microsoft/pai",
+        "html_url": "https://github.com/microsoft/pai",
+        "stars": 1661,
+        "forks": 396
     },
     {
-        "name": "js-primer",
-        "url": "https://api.github.com/repos/asciidwango/js-primer",
-        "full_name": "asciidwango/js-primer",
-        "html_url": "https://github.com/asciidwango/js-primer",
-        "stars": 1587,
-        "forks": 127
-    },
-    {
-        "name": "Fluture",
-        "url": "https://api.github.com/repos/fluture-js/Fluture",
-        "full_name": "fluture-js/Fluture",
-        "html_url": "https://github.com/fluture-js/Fluture",
-        "stars": 1836,
-        "forks": 82
-    },
-    {
-        "name": "simplelightbox",
-        "url": "https://api.github.com/repos/andreknieriem/simplelightbox",
-        "full_name": "andreknieriem/simplelightbox",
-        "html_url": "https://github.com/andreknieriem/simplelightbox",
-        "stars": 634,
-        "forks": 115
-    },
-    {
-        "name": "redwood",
-        "url": "https://api.github.com/repos/redwoodjs/redwood",
-        "full_name": "redwoodjs/redwood",
-        "html_url": "https://github.com/redwoodjs/redwood",
-        "stars": 3318,
-        "forks": 128
-    },
-    {
-        "name": "openui5",
-        "url": "https://api.github.com/repos/SAP/openui5",
-        "full_name": "SAP/openui5",
-        "html_url": "https://github.com/SAP/openui5",
-        "stars": 2164,
-        "forks": 1085
-    },
-    {
-        "name": "deck.gl",
-        "url": "https://api.github.com/repos/visgl/deck.gl",
-        "full_name": "visgl/deck.gl",
-        "html_url": "https://github.com/visgl/deck.gl",
-        "stars": 7497,
-        "forks": 1330
-    },
-    {
-        "name": "cockpit",
-        "url": "https://api.github.com/repos/cockpit-project/cockpit",
-        "full_name": "cockpit-project/cockpit",
-        "html_url": "https://github.com/cockpit-project/cockpit",
-        "stars": 4852,
-        "forks": 648
-    },
-    {
-        "name": "API",
-        "url": "https://api.github.com/repos/NovelCOVID/API",
-        "full_name": "NovelCOVID/API",
-        "html_url": "https://github.com/NovelCOVID/API",
-        "stars": 1822,
-        "forks": 486
-    },
-    {
-        "name": "circuit-ui",
-        "url": "https://api.github.com/repos/sumup-oss/circuit-ui",
-        "full_name": "sumup-oss/circuit-ui",
-        "html_url": "https://github.com/sumup-oss/circuit-ui",
-        "stars": 519,
-        "forks": 81
-    },
-    {
-        "name": "stdlib",
-        "url": "https://api.github.com/repos/stdlib-js/stdlib",
-        "full_name": "stdlib-js/stdlib",
-        "html_url": "https://github.com/stdlib-js/stdlib",
-        "stars": 2247,
-        "forks": 117
-    },
-    {
-        "name": "data",
-        "url": "https://api.github.com/repos/emberjs/data",
-        "full_name": "emberjs/data",
-        "html_url": "https://github.com/emberjs/data",
-        "stars": 2968,
-        "forks": 1294
-    },
-    {
-        "name": "neditor",
-        "url": "https://api.github.com/repos/notadd/neditor",
-        "full_name": "notadd/neditor",
-        "html_url": "https://github.com/notadd/neditor",
-        "stars": 1781,
-        "forks": 246
-    },
-    {
-        "name": "svelte",
-        "url": "https://api.github.com/repos/sveltejs/svelte",
-        "full_name": "sveltejs/svelte",
-        "html_url": "https://github.com/sveltejs/svelte",
-        "stars": 33133,
-        "forks": 1532
-    },
-    {
-        "name": "localStorageDB",
-        "url": "https://api.github.com/repos/knadh/localStorageDB",
-        "full_name": "knadh/localStorageDB",
-        "html_url": "https://github.com/knadh/localStorageDB",
-        "stars": 674,
-        "forks": 116
-    },
-    {
-        "name": "bootstrap",
-        "url": "https://api.github.com/repos/twbs/bootstrap",
-        "full_name": "twbs/bootstrap",
-        "html_url": "https://github.com/twbs/bootstrap",
-        "stars": 140393,
-        "forks": 68687
-    },
-    {
-        "name": "netron",
-        "url": "https://api.github.com/repos/lutzroeder/netron",
-        "full_name": "lutzroeder/netron",
-        "html_url": "https://github.com/lutzroeder/netron",
-        "stars": 9104,
-        "forks": 1103
-    },
-    {
-        "name": "dayjs",
-        "url": "https://api.github.com/repos/iamkun/dayjs",
-        "full_name": "iamkun/dayjs",
-        "html_url": "https://github.com/iamkun/dayjs",
-        "stars": 26940,
-        "forks": 1339
+        "name": "strapi",
+        "url": "https://api.github.com/repos/strapi/strapi",
+        "full_name": "strapi/strapi",
+        "html_url": "https://github.com/strapi/strapi",
+        "stars": 24027,
+        "forks": 2877
     }
 ]
