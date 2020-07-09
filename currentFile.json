@@ -1,51 +1,27 @@
 [
     {
-        "name": "wp-calypso",
-        "url": "https://api.github.com/repos/Automattic/wp-calypso",
-        "full_name": "Automattic/wp-calypso",
-        "html_url": "https://github.com/Automattic/wp-calypso",
-        "stars": 11500,
-        "forks": 1766
+        "name": "mobx",
+        "url": "https://api.github.com/repos/mobxjs/mobx",
+        "full_name": "mobxjs/mobx",
+        "html_url": "https://github.com/mobxjs/mobx",
+        "stars": 22110,
+        "forks": 1404
     },
     {
-        "name": "react-datepicker",
-        "url": "https://api.github.com/repos/Hacker0x01/react-datepicker",
-        "full_name": "Hacker0x01/react-datepicker",
-        "html_url": "https://github.com/Hacker0x01/react-datepicker",
-        "stars": 4922,
-        "forks": 1517
+        "name": "swiper",
+        "url": "https://api.github.com/repos/nolimits4web/swiper",
+        "full_name": "nolimits4web/swiper",
+        "html_url": "https://github.com/nolimits4web/swiper",
+        "stars": 24148,
+        "forks": 9002
     },
     {
-        "name": "gatsby-starter-minimal-blog",
-        "url": "https://api.github.com/repos/LekoArts/gatsby-starter-minimal-blog",
-        "full_name": "LekoArts/gatsby-starter-minimal-blog",
-        "html_url": "https://github.com/LekoArts/gatsby-starter-minimal-blog",
-        "stars": 503,
-        "forks": 155
-    },
-    {
-        "name": "jsplumb",
-        "url": "https://api.github.com/repos/jsplumb/jsplumb",
-        "full_name": "jsplumb/jsplumb",
-        "html_url": "https://github.com/jsplumb/jsplumb",
-        "stars": 5760,
-        "forks": 1270
-    },
-    {
-        "name": "Zettlr",
-        "url": "https://api.github.com/repos/Zettlr/Zettlr",
-        "full_name": "Zettlr/Zettlr",
-        "html_url": "https://github.com/Zettlr/Zettlr",
-        "stars": 2753,
-        "forks": 176
-    },
-    {
-        "name": "next.js",
-        "url": "https://api.github.com/repos/vercel/next.js",
-        "full_name": "vercel/next.js",
-        "html_url": "https://github.com/vercel/next.js",
-        "stars": 50470,
-        "forks": 7801
+        "name": "Rocket.Chat.ReactNative",
+        "url": "https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative",
+        "full_name": "RocketChat/Rocket.Chat.ReactNative",
+        "html_url": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
+        "stars": 807,
+        "forks": 466
     },
     {
         "name": "gutenberg",
@@ -56,6 +32,14 @@
         "forks": 2001
     },
     {
+        "name": "posthog",
+        "url": "https://api.github.com/repos/PostHog/posthog",
+        "full_name": "PostHog/posthog",
+        "html_url": "https://github.com/PostHog/posthog",
+        "stars": 2670,
+        "forks": 164
+    },
+    {
         "name": "gatsby-themes",
         "url": "https://api.github.com/repos/LekoArts/gatsby-themes",
         "full_name": "LekoArts/gatsby-themes",
@@ -64,116 +48,68 @@
         "forks": 245
     },
     {
-        "name": "gatsby-starter-portfolio-cara",
-        "url": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-cara",
-        "full_name": "LekoArts/gatsby-starter-portfolio-cara",
-        "html_url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
-        "stars": 906,
-        "forks": 226
+        "name": "countly-server",
+        "url": "https://api.github.com/repos/Countly/countly-server",
+        "full_name": "Countly/countly-server",
+        "html_url": "https://github.com/Countly/countly-server",
+        "stars": 4462,
+        "forks": 853
     },
     {
-        "name": "odoo",
-        "url": "https://api.github.com/repos/odoo/odoo",
-        "full_name": "odoo/odoo",
-        "html_url": "https://github.com/odoo/odoo",
-        "stars": 18045,
-        "forks": 12565
+        "name": "openaddresses",
+        "url": "https://api.github.com/repos/openaddresses/openaddresses",
+        "full_name": "openaddresses/openaddresses",
+        "html_url": "https://github.com/openaddresses/openaddresses",
+        "stars": 1974,
+        "forks": 800
     },
     {
-        "name": "Vulcan",
-        "url": "https://api.github.com/repos/VulcanJS/Vulcan",
-        "full_name": "VulcanJS/Vulcan",
-        "html_url": "https://github.com/VulcanJS/Vulcan",
-        "stars": 7891,
-        "forks": 2029
+        "name": "cypress",
+        "url": "https://api.github.com/repos/cypress-io/cypress",
+        "full_name": "cypress-io/cypress",
+        "html_url": "https://github.com/cypress-io/cypress",
+        "stars": 21373,
+        "forks": 1280
     },
     {
-        "name": "AdminLTE",
-        "url": "https://api.github.com/repos/ColorlibHQ/AdminLTE",
-        "full_name": "ColorlibHQ/AdminLTE",
-        "html_url": "https://github.com/ColorlibHQ/AdminLTE",
-        "stars": 35360,
-        "forks": 14771
+        "name": "project-guidelines",
+        "url": "https://api.github.com/repos/elsewhencode/project-guidelines",
+        "full_name": "elsewhencode/project-guidelines",
+        "html_url": "https://github.com/elsewhencode/project-guidelines",
+        "stars": 21457,
+        "forks": 2157
     },
     {
-        "name": "assets-webpack-plugin",
-        "url": "https://api.github.com/repos/ztoben/assets-webpack-plugin",
-        "full_name": "ztoben/assets-webpack-plugin",
-        "html_url": "https://github.com/ztoben/assets-webpack-plugin",
-        "stars": 902,
-        "forks": 108
+        "name": "SingleFileZ",
+        "url": "https://api.github.com/repos/gildas-lormeau/SingleFileZ",
+        "full_name": "gildas-lormeau/SingleFileZ",
+        "html_url": "https://github.com/gildas-lormeau/SingleFileZ",
+        "stars": 713,
+        "forks": 57
     },
     {
-        "name": "standard",
-        "url": "https://api.github.com/repos/standard/standard",
-        "full_name": "standard/standard",
-        "html_url": "https://github.com/standard/standard",
-        "stars": 23996,
-        "forks": 1853
+        "name": "SingleFile",
+        "url": "https://api.github.com/repos/gildas-lormeau/SingleFile",
+        "full_name": "gildas-lormeau/SingleFile",
+        "html_url": "https://github.com/gildas-lormeau/SingleFile",
+        "stars": 2098,
+        "forks": 225
     },
     {
-        "name": "electron-json-storage",
-        "url": "https://api.github.com/repos/electron-userland/electron-json-storage",
-        "full_name": "electron-userland/electron-json-storage",
-        "html_url": "https://github.com/electron-userland/electron-json-storage",
-        "stars": 1065,
-        "forks": 68
+        "name": "lighthouse-ci",
+        "url": "https://api.github.com/repos/GoogleChrome/lighthouse-ci",
+        "full_name": "GoogleChrome/lighthouse-ci",
+        "html_url": "https://github.com/GoogleChrome/lighthouse-ci",
+        "stars": 3259,
+        "forks": 198
     },
     {
-        "name": "textures",
-        "url": "https://api.github.com/repos/riccardoscalco/textures",
-        "full_name": "riccardoscalco/textures",
-        "html_url": "https://github.com/riccardoscalco/textures",
-        "stars": 5594,
-        "forks": 233
-    },
-    {
-        "name": "bootstrap",
-        "url": "https://api.github.com/repos/twbs/bootstrap",
-        "full_name": "twbs/bootstrap",
-        "html_url": "https://github.com/twbs/bootstrap",
-        "stars": 142370,
-        "forks": 69301
-    },
-    {
-        "name": "uni-app",
-        "url": "https://api.github.com/repos/dcloudio/uni-app",
-        "full_name": "dcloudio/uni-app",
-        "html_url": "https://github.com/dcloudio/uni-app",
-        "stars": 23303,
-        "forks": 2094
-    },
-    {
-        "name": "webpack-book",
-        "url": "https://api.github.com/repos/survivejs/webpack-book",
-        "full_name": "survivejs/webpack-book",
-        "html_url": "https://github.com/survivejs/webpack-book",
-        "stars": 2278,
-        "forks": 331
-    },
-    {
-        "name": "primefaces",
-        "url": "https://api.github.com/repos/primefaces/primefaces",
-        "full_name": "primefaces/primefaces",
-        "html_url": "https://github.com/primefaces/primefaces",
-        "stars": 1250,
-        "forks": 591
-    },
-    {
-        "name": "Inputmask",
-        "url": "https://api.github.com/repos/RobinHerbots/Inputmask",
-        "full_name": "RobinHerbots/Inputmask",
-        "html_url": "https://github.com/RobinHerbots/Inputmask",
-        "stars": 5033,
-        "forks": 1814
-    },
-    {
-        "name": "js.org",
-        "url": "https://api.github.com/repos/js-org/js.org",
-        "full_name": "js-org/js.org",
-        "html_url": "https://github.com/js-org/js.org",
-        "stars": 3033,
-        "forks": 2002
+        "name": "wp-calypso",
+        "url": "https://api.github.com/repos/Automattic/wp-calypso",
+        "full_name": "Automattic/wp-calypso",
+        "html_url": "https://github.com/Automattic/wp-calypso",
+        "stars": 11500,
+        "forks": 1766
     },
     {
         "name": "openui5",
@@ -184,59 +120,123 @@
         "forks": 1104
     },
     {
-        "name": "mobx",
-        "url": "https://api.github.com/repos/mobxjs/mobx",
-        "full_name": "mobxjs/mobx",
-        "html_url": "https://github.com/mobxjs/mobx",
-        "stars": 22110,
-        "forks": 1404
-    },
-    {
-        "name": "react-native-reanimated",
-        "url": "https://api.github.com/repos/software-mansion/react-native-reanimated",
-        "full_name": "software-mansion/react-native-reanimated",
-        "html_url": "https://github.com/software-mansion/react-native-reanimated",
-        "stars": 3254,
-        "forks": 387
+        "name": "cockpit",
+        "url": "https://api.github.com/repos/cockpit-project/cockpit",
+        "full_name": "cockpit-project/cockpit",
+        "html_url": "https://github.com/cockpit-project/cockpit",
+        "stars": 5054,
+        "forks": 670
     },
     {
         "name": "devtools-frontend",
         "url": "https://api.github.com/repos/ChromeDevTools/devtools-frontend",
         "full_name": "ChromeDevTools/devtools-frontend",
         "html_url": "https://github.com/ChromeDevTools/devtools-frontend",
-        "stars": 1472,
+        "stars": 1473,
         "forks": 226
     },
     {
-        "name": "lossless-cut",
-        "url": "https://api.github.com/repos/mifi/lossless-cut",
-        "full_name": "mifi/lossless-cut",
-        "html_url": "https://github.com/mifi/lossless-cut",
-        "stars": 4468,
-        "forks": 274
+        "name": "quasar",
+        "url": "https://api.github.com/repos/quasarframework/quasar",
+        "full_name": "quasarframework/quasar",
+        "html_url": "https://github.com/quasarframework/quasar",
+        "stars": 15292,
+        "forks": 1746
     },
     {
-        "name": "uBlock",
-        "url": "https://api.github.com/repos/gorhill/uBlock",
-        "full_name": "gorhill/uBlock",
-        "html_url": "https://github.com/gorhill/uBlock",
-        "stars": 21038,
-        "forks": 1717
+        "name": "nuxt.js",
+        "url": "https://api.github.com/repos/nuxt/nuxt.js",
+        "full_name": "nuxt/nuxt.js",
+        "html_url": "https://github.com/nuxt/nuxt.js",
+        "stars": 28224,
+        "forks": 2499
     },
     {
-        "name": "redwood",
-        "url": "https://api.github.com/repos/redwoodjs/redwood",
-        "full_name": "redwoodjs/redwood",
-        "html_url": "https://github.com/redwoodjs/redwood",
-        "stars": 4114,
-        "forks": 175
+        "name": "react-native-ui-lib",
+        "url": "https://api.github.com/repos/wix/react-native-ui-lib",
+        "full_name": "wix/react-native-ui-lib",
+        "html_url": "https://github.com/wix/react-native-ui-lib",
+        "stars": 2328,
+        "forks": 277
     },
     {
-        "name": "react-native-firebase",
-        "url": "https://api.github.com/repos/invertase/react-native-firebase",
-        "full_name": "invertase/react-native-firebase",
-        "html_url": "https://github.com/invertase/react-native-firebase",
-        "stars": 7750,
-        "forks": 1456
+        "name": "iptv",
+        "url": "https://api.github.com/repos/iptv-org/iptv",
+        "full_name": "iptv-org/iptv",
+        "html_url": "https://github.com/iptv-org/iptv",
+        "stars": 18219,
+        "forks": 2759
+    },
+    {
+        "name": "react-native",
+        "url": "https://api.github.com/repos/facebook/react-native",
+        "full_name": "facebook/react-native",
+        "html_url": "https://github.com/facebook/react-native",
+        "stars": 88538,
+        "forks": 19643
+    },
+    {
+        "name": "react",
+        "url": "https://api.github.com/repos/facebook/react",
+        "full_name": "facebook/react",
+        "html_url": "https://github.com/facebook/react",
+        "stars": 151762,
+        "forks": 29644
+    },
+    {
+        "name": "jumpserver",
+        "url": "https://api.github.com/repos/jumpserver/jumpserver",
+        "full_name": "jumpserver/jumpserver",
+        "html_url": "https://github.com/jumpserver/jumpserver",
+        "stars": 13458,
+        "forks": 3784
+    },
+    {
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 18046,
+        "forks": 12565
+    },
+    {
+        "name": "Bilibili-Evolved",
+        "url": "https://api.github.com/repos/the1812/Bilibili-Evolved",
+        "full_name": "the1812/Bilibili-Evolved",
+        "html_url": "https://github.com/the1812/Bilibili-Evolved",
+        "stars": 2992,
+        "forks": 219
+    },
+    {
+        "name": "growi",
+        "url": "https://api.github.com/repos/weseek/growi",
+        "full_name": "weseek/growi",
+        "html_url": "https://github.com/weseek/growi",
+        "stars": 746,
+        "forks": 155
+    },
+    {
+        "name": "Rocket.Chat",
+        "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
+        "full_name": "RocketChat/Rocket.Chat",
+        "html_url": "https://github.com/RocketChat/Rocket.Chat",
+        "stars": 27495,
+        "forks": 5998
+    },
+    {
+        "name": "gsimaps",
+        "url": "https://api.github.com/repos/gsi-cyberjapan/gsimaps",
+        "full_name": "gsi-cyberjapan/gsimaps",
+        "html_url": "https://github.com/gsi-cyberjapan/gsimaps",
+        "stars": 508,
+        "forks": 590
+    },
+    {
+        "name": "cockpit",
+        "url": "https://api.github.com/repos/agentejo/cockpit",
+        "full_name": "agentejo/cockpit",
+        "html_url": "https://github.com/agentejo/cockpit",
+        "stars": 4618,
+        "forks": 456
     }
 ]
