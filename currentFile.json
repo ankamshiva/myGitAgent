@@ -1,11 +1,187 @@
 [
     {
+        "name": "Parse-SDK-JS",
+        "url": "https://api.github.com/repos/parse-community/Parse-SDK-JS",
+        "full_name": "parse-community/Parse-SDK-JS",
+        "html_url": "https://github.com/parse-community/Parse-SDK-JS",
+        "stars": 1070,
+        "forks": 533
+    },
+    {
+        "name": "docsify",
+        "url": "https://api.github.com/repos/docsifyjs/docsify",
+        "full_name": "docsifyjs/docsify",
+        "html_url": "https://github.com/docsifyjs/docsify",
+        "stars": 14256,
+        "forks": 3363
+    },
+    {
+        "name": "keystone",
+        "url": "https://api.github.com/repos/keystonejs/keystone",
+        "full_name": "keystonejs/keystone",
+        "html_url": "https://github.com/keystonejs/keystone",
+        "stars": 2381,
+        "forks": 332
+    },
+    {
+        "name": "node-newrelic",
+        "url": "https://api.github.com/repos/newrelic/node-newrelic",
+        "full_name": "newrelic/node-newrelic",
+        "html_url": "https://github.com/newrelic/node-newrelic",
+        "stars": 777,
+        "forks": 294
+    },
+    {
+        "name": "graphql-engine",
+        "url": "https://api.github.com/repos/hasura/graphql-engine",
+        "full_name": "hasura/graphql-engine",
+        "html_url": "https://github.com/hasura/graphql-engine",
+        "stars": 17613,
+        "forks": 1467
+    },
+    {
+        "name": "ReplaceGoogleCDN",
+        "url": "https://api.github.com/repos/justjavac/ReplaceGoogleCDN",
+        "full_name": "justjavac/ReplaceGoogleCDN",
+        "html_url": "https://github.com/justjavac/ReplaceGoogleCDN",
+        "stars": 1714,
+        "forks": 367
+    },
+    {
+        "name": "strapi",
+        "url": "https://api.github.com/repos/strapi/strapi",
+        "full_name": "strapi/strapi",
+        "html_url": "https://github.com/strapi/strapi",
+        "stars": 27285,
+        "forks": 3337
+    },
+    {
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 18076,
+        "forks": 12589
+    },
+    {
+        "name": "goober",
+        "url": "https://api.github.com/repos/cristianbote/goober",
+        "full_name": "cristianbote/goober",
+        "html_url": "https://github.com/cristianbote/goober",
+        "stars": 1240,
+        "forks": 35
+    },
+    {
+        "name": "cockpit",
+        "url": "https://api.github.com/repos/cockpit-project/cockpit",
+        "full_name": "cockpit-project/cockpit",
+        "html_url": "https://github.com/cockpit-project/cockpit",
+        "stars": 5060,
+        "forks": 671
+    },
+    {
+        "name": "portainer",
+        "url": "https://api.github.com/repos/portainer/portainer",
+        "full_name": "portainer/portainer",
+        "html_url": "https://github.com/portainer/portainer",
+        "stars": 15099,
+        "forks": 1430
+    },
+    {
+        "name": "Leaflet",
+        "url": "https://api.github.com/repos/Leaflet/Leaflet",
+        "full_name": "Leaflet/Leaflet",
+        "html_url": "https://github.com/Leaflet/Leaflet",
+        "stars": 28365,
+        "forks": 4567
+    },
+    {
+        "name": "remax",
+        "url": "https://api.github.com/repos/remaxjs/remax",
+        "full_name": "remaxjs/remax",
+        "html_url": "https://github.com/remaxjs/remax",
+        "stars": 2916,
+        "forks": 202
+    },
+    {
+        "name": "lbry-desktop",
+        "url": "https://api.github.com/repos/lbryio/lbry-desktop",
+        "full_name": "lbryio/lbry-desktop",
+        "html_url": "https://github.com/lbryio/lbry-desktop",
+        "stars": 1011,
+        "forks": 307
+    },
+    {
+        "name": "openui5",
+        "url": "https://api.github.com/repos/SAP/openui5",
+        "full_name": "SAP/openui5",
+        "html_url": "https://github.com/SAP/openui5",
+        "stars": 2210,
+        "forks": 1105
+    },
+    {
+        "name": "payment-icons",
+        "url": "https://api.github.com/repos/muffinresearch/payment-icons",
+        "full_name": "muffinresearch/payment-icons",
+        "html_url": "https://github.com/muffinresearch/payment-icons",
+        "stars": 619,
+        "forks": 106
+    },
+    {
+        "name": "Rocket.Chat",
+        "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
+        "full_name": "RocketChat/Rocket.Chat",
+        "html_url": "https://github.com/RocketChat/Rocket.Chat",
+        "stars": 27517,
+        "forks": 6002
+    },
+    {
+        "name": "parse-server",
+        "url": "https://api.github.com/repos/parse-community/parse-server",
+        "full_name": "parse-community/parse-server",
+        "html_url": "https://github.com/parse-community/parse-server",
+        "stars": 17633,
+        "forks": 4344
+    },
+    {
         "name": "next.js",
         "url": "https://api.github.com/repos/vercel/next.js",
         "full_name": "vercel/next.js",
         "html_url": "https://github.com/vercel/next.js",
-        "stars": 50663,
-        "forks": 7854
+        "stars": 50665,
+        "forks": 7855
+    },
+    {
+        "name": "wp-calypso",
+        "url": "https://api.github.com/repos/Automattic/wp-calypso",
+        "full_name": "Automattic/wp-calypso",
+        "html_url": "https://github.com/Automattic/wp-calypso",
+        "stars": 11502,
+        "forks": 1768
+    },
+    {
+        "name": "node",
+        "url": "https://api.github.com/repos/nodejs/node",
+        "full_name": "nodejs/node",
+        "html_url": "https://github.com/nodejs/node",
+        "stars": 71513,
+        "forks": 17414
+    },
+    {
+        "name": "casl",
+        "url": "https://api.github.com/repos/stalniy/casl",
+        "full_name": "stalniy/casl",
+        "html_url": "https://github.com/stalniy/casl",
+        "stars": 2152,
+        "forks": 136
+    },
+    {
+        "name": "incubator-echarts",
+        "url": "https://api.github.com/repos/apache/incubator-echarts",
+        "full_name": "apache/incubator-echarts",
+        "html_url": "https://github.com/apache/incubator-echarts",
+        "stars": 42013,
+        "forks": 14864
     },
     {
         "name": "taiko",
@@ -16,12 +192,28 @@
         "forks": 169
     },
     {
+        "name": "truffle",
+        "url": "https://api.github.com/repos/trufflesuite/truffle",
+        "full_name": "trufflesuite/truffle",
+        "html_url": "https://github.com/trufflesuite/truffle",
+        "stars": 8789,
+        "forks": 1426
+    },
+    {
         "name": "jsonbox",
         "url": "https://api.github.com/repos/vasanthv/jsonbox",
         "full_name": "vasanthv/jsonbox",
         "html_url": "https://github.com/vasanthv/jsonbox",
         "stars": 2251,
         "forks": 99
+    },
+    {
+        "name": "marktext",
+        "url": "https://api.github.com/repos/marktext/marktext",
+        "full_name": "marktext/marktext",
+        "html_url": "https://github.com/marktext/marktext",
+        "stars": 16376,
+        "forks": 1175
     },
     {
         "name": "deck.gl",
@@ -36,207 +228,15 @@
         "url": "https://api.github.com/repos/kartik-v/bootstrap-fileinput",
         "full_name": "kartik-v/bootstrap-fileinput",
         "html_url": "https://github.com/kartik-v/bootstrap-fileinput",
-        "stars": 4743,
+        "stars": 4742,
         "forks": 2252
     },
     {
-        "name": "password-manager-resources",
-        "url": "https://api.github.com/repos/apple/password-manager-resources",
-        "full_name": "apple/password-manager-resources",
-        "html_url": "https://github.com/apple/password-manager-resources",
-        "stars": 2821,
-        "forks": 229
-    },
-    {
-        "name": "nexrender",
-        "url": "https://api.github.com/repos/inlife/nexrender",
-        "full_name": "inlife/nexrender",
-        "html_url": "https://github.com/inlife/nexrender",
-        "stars": 738,
-        "forks": 177
-    },
-    {
-        "name": "joplin",
-        "url": "https://api.github.com/repos/laurent22/joplin",
-        "full_name": "laurent22/joplin",
-        "html_url": "https://github.com/laurent22/joplin",
-        "stars": 16877,
-        "forks": 1732
-    },
-    {
-        "name": "gutenberg",
-        "url": "https://api.github.com/repos/WordPress/gutenberg",
-        "full_name": "WordPress/gutenberg",
-        "html_url": "https://github.com/WordPress/gutenberg",
-        "stars": 6014,
-        "forks": 2003
-    },
-    {
-        "name": "node",
-        "url": "https://api.github.com/repos/nodejs/node",
-        "full_name": "nodejs/node",
-        "html_url": "https://github.com/nodejs/node",
-        "stars": 71511,
-        "forks": 17413
-    },
-    {
-        "name": "vue-recaptcha",
-        "url": "https://api.github.com/repos/DanSnow/vue-recaptcha",
-        "full_name": "DanSnow/vue-recaptcha",
-        "html_url": "https://github.com/DanSnow/vue-recaptcha",
-        "stars": 576,
-        "forks": 69
-    },
-    {
-        "name": "chinese-independent-blogs",
-        "url": "https://api.github.com/repos/timqian/chinese-independent-blogs",
-        "full_name": "timqian/chinese-independent-blogs",
-        "html_url": "https://github.com/timqian/chinese-independent-blogs",
-        "stars": 4887,
-        "forks": 651
-    },
-    {
-        "name": "eslint",
-        "url": "https://api.github.com/repos/eslint/eslint",
-        "full_name": "eslint/eslint",
-        "html_url": "https://github.com/eslint/eslint",
-        "stars": 16800,
-        "forks": 2957
-    },
-    {
-        "name": "remax",
-        "url": "https://api.github.com/repos/remaxjs/remax",
-        "full_name": "remaxjs/remax",
-        "html_url": "https://github.com/remaxjs/remax",
-        "stars": 2916,
-        "forks": 202
-    },
-    {
-        "name": "ReplaceGoogleCDN",
-        "url": "https://api.github.com/repos/justjavac/ReplaceGoogleCDN",
-        "full_name": "justjavac/ReplaceGoogleCDN",
-        "html_url": "https://github.com/justjavac/ReplaceGoogleCDN",
-        "stars": 1713,
-        "forks": 367
-    },
-    {
-        "name": "svelte",
-        "url": "https://api.github.com/repos/sveltejs/svelte",
-        "full_name": "sveltejs/svelte",
-        "html_url": "https://github.com/sveltejs/svelte",
-        "stars": 35370,
-        "forks": 1663
-    },
-    {
-        "name": "rax",
-        "url": "https://api.github.com/repos/alibaba/rax",
-        "full_name": "alibaba/rax",
-        "html_url": "https://github.com/alibaba/rax",
-        "stars": 6545,
-        "forks": 583
-    },
-    {
-        "name": "shields",
-        "url": "https://api.github.com/repos/badges/shields",
-        "full_name": "badges/shields",
-        "html_url": "https://github.com/badges/shields",
-        "stars": 11361,
-        "forks": 3072
-    },
-    {
-        "name": "Rocket.Chat",
-        "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
-        "full_name": "RocketChat/Rocket.Chat",
-        "html_url": "https://github.com/RocketChat/Rocket.Chat",
-        "stars": 27516,
-        "forks": 6002
-    },
-    {
-        "name": "discord.js",
-        "url": "https://api.github.com/repos/discordjs/discord.js",
-        "full_name": "discordjs/discord.js",
-        "html_url": "https://github.com/discordjs/discord.js",
-        "stars": 6293,
-        "forks": 1540
-    },
-    {
-        "name": "BotFramework-WebChat",
-        "url": "https://api.github.com/repos/microsoft/BotFramework-WebChat",
-        "full_name": "microsoft/BotFramework-WebChat",
-        "html_url": "https://github.com/microsoft/BotFramework-WebChat",
-        "stars": 1096,
-        "forks": 1091
-    },
-    {
-        "name": "keystone",
-        "url": "https://api.github.com/repos/keystonejs/keystone",
-        "full_name": "keystonejs/keystone",
-        "html_url": "https://github.com/keystonejs/keystone",
-        "stars": 2380,
-        "forks": 332
-    },
-    {
-        "name": "design-system-react",
-        "url": "https://api.github.com/repos/salesforce/design-system-react",
-        "full_name": "salesforce/design-system-react",
-        "html_url": "https://github.com/salesforce/design-system-react",
-        "stars": 593,
-        "forks": 274
-    },
-    {
-        "name": "codelab-friendlychat-web",
-        "url": "https://api.github.com/repos/firebase/codelab-friendlychat-web",
-        "full_name": "firebase/codelab-friendlychat-web",
-        "html_url": "https://github.com/firebase/codelab-friendlychat-web",
-        "stars": 1417,
-        "forks": 1445
-    },
-    {
-        "name": "netron",
-        "url": "https://api.github.com/repos/lutzroeder/netron",
-        "full_name": "lutzroeder/netron",
-        "html_url": "https://github.com/lutzroeder/netron",
-        "stars": 10244,
-        "forks": 1254
-    },
-    {
-        "name": "vant",
-        "url": "https://api.github.com/repos/youzan/vant",
-        "full_name": "youzan/vant",
-        "html_url": "https://github.com/youzan/vant",
-        "stars": 14337,
-        "forks": 6203
-    },
-    {
-        "name": "made-in-iran",
-        "url": "https://api.github.com/repos/mohebifar/made-in-iran",
-        "full_name": "mohebifar/made-in-iran",
-        "html_url": "https://github.com/mohebifar/made-in-iran",
-        "stars": 564,
-        "forks": 122
-    },
-    {
-        "name": "shepherd",
-        "url": "https://api.github.com/repos/shipshapecode/shepherd",
-        "full_name": "shipshapecode/shepherd",
-        "html_url": "https://github.com/shipshapecode/shepherd",
-        "stars": 8381,
-        "forks": 505
-    },
-    {
-        "name": "appium",
-        "url": "https://api.github.com/repos/appium/appium",
-        "full_name": "appium/appium",
-        "html_url": "https://github.com/appium/appium",
-        "stars": 11690,
-        "forks": 4655
-    },
-    {
-        "name": "kugimiya-rainbow-fart",
-        "url": "https://api.github.com/repos/zthxxx/kugimiya-rainbow-fart",
-        "full_name": "zthxxx/kugimiya-rainbow-fart",
-        "html_url": "https://github.com/zthxxx/kugimiya-rainbow-fart",
-        "stars": 502,
-        "forks": 35
+        "name": "Zettlr",
+        "url": "https://api.github.com/repos/Zettlr/Zettlr",
+        "full_name": "Zettlr/Zettlr",
+        "html_url": "https://github.com/Zettlr/Zettlr",
+        "stars": 2883,
+        "forks": 181
     }
 ]
