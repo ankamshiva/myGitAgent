@@ -1,91 +1,75 @@
 [
     {
-        "name": "NodeBB",
-        "url": "https://api.github.com/repos/NodeBB/NodeBB",
-        "full_name": "NodeBB/NodeBB",
-        "html_url": "https://github.com/NodeBB/NodeBB",
-        "stars": 11260,
-        "forks": 2260
+        "name": "emacs-application-framework",
+        "url": "https://api.github.com/repos/manateelazycat/emacs-application-framework",
+        "full_name": "manateelazycat/emacs-application-framework",
+        "html_url": "https://github.com/manateelazycat/emacs-application-framework",
+        "stars": 1115,
+        "forks": 85
     },
     {
-        "name": "openui5",
-        "url": "https://api.github.com/repos/SAP/openui5",
-        "full_name": "SAP/openui5",
-        "html_url": "https://github.com/SAP/openui5",
-        "stars": 2225,
-        "forks": 1108
+        "name": "redwood",
+        "url": "https://api.github.com/repos/redwoodjs/redwood",
+        "full_name": "redwoodjs/redwood",
+        "html_url": "https://github.com/redwoodjs/redwood",
+        "stars": 4318,
+        "forks": 188
     },
     {
-        "name": "schema",
-        "url": "https://api.github.com/repos/graphql-nexus/schema",
-        "full_name": "graphql-nexus/schema",
-        "html_url": "https://github.com/graphql-nexus/schema",
-        "stars": 1663,
-        "forks": 109
+        "name": "webdriverio",
+        "url": "https://api.github.com/repos/webdriverio/webdriverio",
+        "full_name": "webdriverio/webdriverio",
+        "html_url": "https://github.com/webdriverio/webdriverio",
+        "stars": 5869,
+        "forks": 1731
     },
     {
-        "name": "incubator-echarts",
-        "url": "https://api.github.com/repos/apache/incubator-echarts",
-        "full_name": "apache/incubator-echarts",
-        "html_url": "https://github.com/apache/incubator-echarts",
-        "stars": 42286,
-        "forks": 15076
+        "name": "idyll",
+        "url": "https://api.github.com/repos/idyll-lang/idyll",
+        "full_name": "idyll-lang/idyll",
+        "html_url": "https://github.com/idyll-lang/idyll",
+        "stars": 1442,
+        "forks": 77
     },
     {
-        "name": "open-event-frontend",
-        "url": "https://api.github.com/repos/fossasia/open-event-frontend",
-        "full_name": "fossasia/open-event-frontend",
-        "html_url": "https://github.com/fossasia/open-event-frontend",
-        "stars": 1369,
-        "forks": 711
-    },
-    {
-        "name": "components",
-        "url": "https://api.github.com/repos/serverless/components",
-        "full_name": "serverless/components",
-        "html_url": "https://github.com/serverless/components",
-        "stars": 1896,
-        "forks": 154
-    },
-    {
-        "name": "cypress-example-recipes",
-        "url": "https://api.github.com/repos/cypress-io/cypress-example-recipes",
-        "full_name": "cypress-io/cypress-example-recipes",
-        "html_url": "https://github.com/cypress-io/cypress-example-recipes",
-        "stars": 1384,
-        "forks": 591
-    },
-    {
-        "name": "neo",
-        "url": "https://api.github.com/repos/neomjs/neo",
-        "full_name": "neomjs/neo",
-        "html_url": "https://github.com/neomjs/neo",
-        "stars": 933,
-        "forks": 52
-    },
-    {
-        "name": "odoo",
-        "url": "https://api.github.com/repos/odoo/odoo",
-        "full_name": "odoo/odoo",
-        "html_url": "https://github.com/odoo/odoo",
-        "stars": 18261,
-        "forks": 12689
-    },
-    {
-        "name": "BlueWallet",
-        "url": "https://api.github.com/repos/BlueWallet/BlueWallet",
-        "full_name": "BlueWallet/BlueWallet",
-        "html_url": "https://github.com/BlueWallet/BlueWallet",
-        "stars": 621,
-        "forks": 261
+        "name": "awx",
+        "url": "https://api.github.com/repos/ansible/awx",
+        "full_name": "ansible/awx",
+        "html_url": "https://github.com/ansible/awx",
+        "stars": 8148,
+        "forks": 2070
     },
     {
         "name": "gatsby",
         "url": "https://api.github.com/repos/gatsbyjs/gatsby",
         "full_name": "gatsbyjs/gatsby",
         "html_url": "https://github.com/gatsbyjs/gatsby",
-        "stars": 46190,
-        "forks": 8562
+        "stars": 46192,
+        "forks": 8563
+    },
+    {
+        "name": "ccxt",
+        "url": "https://api.github.com/repos/ccxt/ccxt",
+        "full_name": "ccxt/ccxt",
+        "html_url": "https://github.com/ccxt/ccxt",
+        "stars": 14299,
+        "forks": 4034
+    },
+    {
+        "name": "primefaces",
+        "url": "https://api.github.com/repos/primefaces/primefaces",
+        "full_name": "primefaces/primefaces",
+        "html_url": "https://github.com/primefaces/primefaces",
+        "stars": 1255,
+        "forks": 593
+    },
+    {
+        "name": "i18n-module",
+        "url": "https://api.github.com/repos/nuxt-community/i18n-module",
+        "full_name": "nuxt-community/i18n-module",
+        "html_url": "https://github.com/nuxt-community/i18n-module",
+        "stars": 659,
+        "forks": 227
     },
     {
         "name": "Prebid.js",
@@ -96,60 +80,100 @@
         "forks": 1257
     },
     {
-        "name": "posthog",
-        "url": "https://api.github.com/repos/PostHog/posthog",
-        "full_name": "PostHog/posthog",
-        "html_url": "https://github.com/PostHog/posthog",
-        "stars": 2834,
-        "forks": 175
+        "name": "hsd",
+        "url": "https://api.github.com/repos/handshake-org/hsd",
+        "full_name": "handshake-org/hsd",
+        "html_url": "https://github.com/handshake-org/hsd",
+        "stars": 793,
+        "forks": 123
     },
     {
-        "name": "floatThead",
-        "url": "https://api.github.com/repos/mkoryak/floatThead",
-        "full_name": "mkoryak/floatThead",
-        "html_url": "https://github.com/mkoryak/floatThead",
-        "stars": 1169,
-        "forks": 199
+        "name": "plugins",
+        "url": "https://api.github.com/repos/rollup/plugins",
+        "full_name": "rollup/plugins",
+        "html_url": "https://github.com/rollup/plugins",
+        "stars": 971,
+        "forks": 172
     },
     {
-        "name": "github-profile-readme-generator",
-        "url": "https://api.github.com/repos/rahuldkjain/github-profile-readme-generator",
-        "full_name": "rahuldkjain/github-profile-readme-generator",
-        "html_url": "https://github.com/rahuldkjain/github-profile-readme-generator",
-        "stars": 681,
-        "forks": 70
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 18262,
+        "forks": 12689
     },
     {
-        "name": "betterttv",
-        "url": "https://api.github.com/repos/night/betterttv",
-        "full_name": "night/betterttv",
-        "html_url": "https://github.com/night/betterttv",
-        "stars": 658,
-        "forks": 205
+        "name": "orbit-components",
+        "url": "https://api.github.com/repos/kiwicom/orbit-components",
+        "full_name": "kiwicom/orbit-components",
+        "html_url": "https://github.com/kiwicom/orbit-components",
+        "stars": 686,
+        "forks": 66
     },
     {
-        "name": "html-webpack-plugin",
-        "url": "https://api.github.com/repos/jantimon/html-webpack-plugin",
-        "full_name": "jantimon/html-webpack-plugin",
-        "html_url": "https://github.com/jantimon/html-webpack-plugin",
-        "stars": 8977,
-        "forks": 1118
+        "name": "wp-calypso",
+        "url": "https://api.github.com/repos/Automattic/wp-calypso",
+        "full_name": "Automattic/wp-calypso",
+        "html_url": "https://github.com/Automattic/wp-calypso",
+        "stars": 11513,
+        "forks": 1778
     },
     {
-        "name": "graphile-engine",
-        "url": "https://api.github.com/repos/graphile/graphile-engine",
-        "full_name": "graphile/graphile-engine",
-        "html_url": "https://github.com/graphile/graphile-engine",
-        "stars": 574,
-        "forks": 86
+        "name": "nuxt.js",
+        "url": "https://api.github.com/repos/nuxt/nuxt.js",
+        "full_name": "nuxt/nuxt.js",
+        "html_url": "https://github.com/nuxt/nuxt.js",
+        "stars": 28758,
+        "forks": 2539
     },
     {
-        "name": "truffle",
-        "url": "https://api.github.com/repos/trufflesuite/truffle",
-        "full_name": "trufflesuite/truffle",
-        "html_url": "https://github.com/trufflesuite/truffle",
-        "stars": 8830,
-        "forks": 1437
+        "name": "react-router",
+        "url": "https://api.github.com/repos/ReactTraining/react-router",
+        "full_name": "ReactTraining/react-router",
+        "html_url": "https://github.com/ReactTraining/react-router",
+        "stars": 41337,
+        "forks": 8237
+    },
+    {
+        "name": "webpack",
+        "url": "https://api.github.com/repos/webpack/webpack",
+        "full_name": "webpack/webpack",
+        "html_url": "https://github.com/webpack/webpack",
+        "stars": 55133,
+        "forks": 7158
+    },
+    {
+        "name": "Rocket.Chat",
+        "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
+        "full_name": "RocketChat/Rocket.Chat",
+        "html_url": "https://github.com/RocketChat/Rocket.Chat",
+        "stars": 27647,
+        "forks": 6034
+    },
+    {
+        "name": "uBlock",
+        "url": "https://api.github.com/repos/gorhill/uBlock",
+        "full_name": "gorhill/uBlock",
+        "html_url": "https://github.com/gorhill/uBlock",
+        "stars": 21283,
+        "forks": 1734
+    },
+    {
+        "name": "next.js",
+        "url": "https://api.github.com/repos/vercel/next.js",
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stars": 51603,
+        "forks": 8085
+    },
+    {
+        "name": "strapi",
+        "url": "https://api.github.com/repos/strapi/strapi",
+        "full_name": "strapi/strapi",
+        "html_url": "https://github.com/strapi/strapi",
+        "stars": 27884,
+        "forks": 3445
     },
     {
         "name": "serverless",
@@ -160,83 +184,59 @@
         "forks": 4317
     },
     {
-        "name": "testcafe",
-        "url": "https://api.github.com/repos/DevExpress/testcafe",
-        "full_name": "DevExpress/testcafe",
-        "html_url": "https://github.com/DevExpress/testcafe",
-        "stars": 8373,
-        "forks": 548
+        "name": "cockpit",
+        "url": "https://api.github.com/repos/cockpit-project/cockpit",
+        "full_name": "cockpit-project/cockpit",
+        "html_url": "https://github.com/cockpit-project/cockpit",
+        "stars": 5101,
+        "forks": 674
     },
     {
-        "name": "react-jsonschema-form",
-        "url": "https://api.github.com/repos/rjsf-team/react-jsonschema-form",
-        "full_name": "rjsf-team/react-jsonschema-form",
-        "html_url": "https://github.com/rjsf-team/react-jsonschema-form",
-        "stars": 8732,
-        "forks": 1418
+        "name": "gutenberg",
+        "url": "https://api.github.com/repos/WordPress/gutenberg",
+        "full_name": "WordPress/gutenberg",
+        "html_url": "https://github.com/WordPress/gutenberg",
+        "stars": 6085,
+        "forks": 2036
     },
     {
-        "name": "calendar",
-        "url": "https://api.github.com/repos/nextcloud/calendar",
-        "full_name": "nextcloud/calendar",
-        "html_url": "https://github.com/nextcloud/calendar",
-        "stars": 555,
-        "forks": 138
+        "name": "Awesome-Profile-README-templates",
+        "url": "https://api.github.com/repos/kautukkundan/Awesome-Profile-README-templates",
+        "full_name": "kautukkundan/Awesome-Profile-README-templates",
+        "html_url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+        "stars": 5364,
+        "forks": 1760
     },
     {
-        "name": "Snap",
-        "url": "https://api.github.com/repos/jmoenig/Snap",
-        "full_name": "jmoenig/Snap",
-        "html_url": "https://github.com/jmoenig/Snap",
-        "stars": 937,
-        "forks": 582
+        "name": "three.js",
+        "url": "https://api.github.com/repos/mrdoob/three.js",
+        "full_name": "mrdoob/three.js",
+        "html_url": "https://github.com/mrdoob/three.js",
+        "stars": 62520,
+        "forks": 24486
     },
     {
-        "name": "nectarjs",
-        "url": "https://api.github.com/repos/NectarJS/nectarjs",
-        "full_name": "NectarJS/nectarjs",
-        "html_url": "https://github.com/NectarJS/nectarjs",
-        "stars": 2362,
-        "forks": 89
+        "name": "openui5",
+        "url": "https://api.github.com/repos/SAP/openui5",
+        "full_name": "SAP/openui5",
+        "html_url": "https://github.com/SAP/openui5",
+        "stars": 2225,
+        "forks": 1108
     },
     {
-        "name": "nivo",
-        "url": "https://api.github.com/repos/plouc/nivo",
-        "full_name": "plouc/nivo",
-        "html_url": "https://github.com/plouc/nivo",
-        "stars": 7353,
-        "forks": 523
+        "name": "react-native",
+        "url": "https://api.github.com/repos/facebook/react-native",
+        "full_name": "facebook/react-native",
+        "html_url": "https://github.com/facebook/react-native",
+        "stars": 89099,
+        "forks": 19767
     },
     {
-        "name": "icons",
-        "url": "https://api.github.com/repos/twbs/icons",
-        "full_name": "twbs/icons",
-        "html_url": "https://github.com/twbs/icons",
-        "stars": 2130,
-        "forks": 363
-    },
-    {
-        "name": "react",
-        "url": "https://api.github.com/repos/facebook/react",
-        "full_name": "facebook/react",
-        "html_url": "https://github.com/facebook/react",
-        "stars": 153405,
-        "forks": 30059
-    },
-    {
-        "name": "quill",
-        "url": "https://api.github.com/repos/quilljs/quill",
-        "full_name": "quilljs/quill",
-        "html_url": "https://github.com/quilljs/quill",
-        "stars": 27224,
-        "forks": 2198
-    },
-    {
-        "name": "webdriverio",
-        "url": "https://api.github.com/repos/webdriverio/webdriverio",
-        "full_name": "webdriverio/webdriverio",
-        "html_url": "https://github.com/webdriverio/webdriverio",
-        "stars": 5869,
-        "forks": 1731
+        "name": "evil-icons",
+        "url": "https://api.github.com/repos/evil-icons/evil-icons",
+        "full_name": "evil-icons/evil-icons",
+        "html_url": "https://github.com/evil-icons/evil-icons",
+        "stars": 4831,
+        "forks": 219
     }
 ]
