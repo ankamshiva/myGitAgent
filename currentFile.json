@@ -1,227 +1,83 @@
 [
     {
-        "name": "jqGrid",
-        "url": "https://api.github.com/repos/tonytomov/jqGrid",
-        "full_name": "tonytomov/jqGrid",
-        "html_url": "https://github.com/tonytomov/jqGrid",
-        "stars": 2756,
-        "forks": 1186
+        "name": "licia",
+        "url": "https://api.github.com/repos/liriliri/licia",
+        "full_name": "liriliri/licia",
+        "html_url": "https://github.com/liriliri/licia",
+        "stars": 1778,
+        "forks": 125
     },
     {
-        "name": "redux-orm",
-        "url": "https://api.github.com/repos/redux-orm/redux-orm",
-        "full_name": "redux-orm/redux-orm",
-        "html_url": "https://github.com/redux-orm/redux-orm",
-        "stars": 2782,
+        "name": "cockpit",
+        "url": "https://api.github.com/repos/cockpit-project/cockpit",
+        "full_name": "cockpit-project/cockpit",
+        "html_url": "https://github.com/cockpit-project/cockpit",
+        "stars": 5107,
+        "forks": 674
+    },
+    {
+        "name": "kwin-tiling",
+        "url": "https://api.github.com/repos/kwin-scripts/kwin-tiling",
+        "full_name": "kwin-scripts/kwin-tiling",
+        "html_url": "https://github.com/kwin-scripts/kwin-tiling",
+        "stars": 729,
+        "forks": 58
+    },
+    {
+        "name": "contracts-solidity",
+        "url": "https://api.github.com/repos/bancorprotocol/contracts-solidity",
+        "full_name": "bancorprotocol/contracts-solidity",
+        "html_url": "https://github.com/bancorprotocol/contracts-solidity",
+        "stars": 605,
+        "forks": 259
+    },
+    {
+        "name": "generator-jhipster",
+        "url": "https://api.github.com/repos/jhipster/generator-jhipster",
+        "full_name": "jhipster/generator-jhipster",
+        "html_url": "https://github.com/jhipster/generator-jhipster",
+        "stars": 16862,
+        "forks": 3365
+    },
+    {
+        "name": "nodejs-driver",
+        "url": "https://api.github.com/repos/datastax/nodejs-driver",
+        "full_name": "datastax/nodejs-driver",
+        "html_url": "https://github.com/datastax/nodejs-driver",
+        "stars": 1025,
+        "forks": 166
+    },
+    {
+        "name": "drift",
+        "url": "https://api.github.com/repos/imgix/drift",
+        "full_name": "imgix/drift",
+        "html_url": "https://github.com/imgix/drift",
+        "stars": 1124,
         "forks": 108
     },
     {
-        "name": "telegram-react",
-        "url": "https://api.github.com/repos/evgeny-nadymov/telegram-react",
-        "full_name": "evgeny-nadymov/telegram-react",
-        "html_url": "https://github.com/evgeny-nadymov/telegram-react",
-        "stars": 851,
-        "forks": 229
+        "name": "mattermost-webapp",
+        "url": "https://api.github.com/repos/mattermost/mattermost-webapp",
+        "full_name": "mattermost/mattermost-webapp",
+        "html_url": "https://github.com/mattermost/mattermost-webapp",
+        "stars": 914,
+        "forks": 1666
     },
     {
-        "name": "vue-chartjs",
-        "url": "https://api.github.com/repos/apertureless/vue-chartjs",
-        "full_name": "apertureless/vue-chartjs",
-        "html_url": "https://github.com/apertureless/vue-chartjs",
-        "stars": 3891,
-        "forks": 545
+        "name": "web",
+        "url": "https://api.github.com/repos/gitcoinco/web",
+        "full_name": "gitcoinco/web",
+        "html_url": "https://github.com/gitcoinco/web",
+        "stars": 983,
+        "forks": 555
     },
     {
-        "name": "redwood",
-        "url": "https://api.github.com/repos/redwoodjs/redwood",
-        "full_name": "redwoodjs/redwood",
-        "html_url": "https://github.com/redwoodjs/redwood",
-        "stars": 4338,
-        "forks": 189
-    },
-    {
-        "name": "DevExtreme",
-        "url": "https://api.github.com/repos/DevExpress/DevExtreme",
-        "full_name": "DevExpress/DevExtreme",
-        "html_url": "https://github.com/DevExpress/DevExtreme",
-        "stars": 1244,
-        "forks": 357
-    },
-    {
-        "name": "leetcode",
-        "url": "https://api.github.com/repos/azl397985856/leetcode",
-        "full_name": "azl397985856/leetcode",
-        "html_url": "https://github.com/azl397985856/leetcode",
-        "stars": 35164,
-        "forks": 6521
-    },
-    {
-        "name": "openui5",
-        "url": "https://api.github.com/repos/SAP/openui5",
-        "full_name": "SAP/openui5",
-        "html_url": "https://github.com/SAP/openui5",
-        "stars": 2226,
-        "forks": 1107
-    },
-    {
-        "name": "brave-browser",
-        "url": "https://api.github.com/repos/brave/brave-browser",
-        "full_name": "brave/brave-browser",
-        "html_url": "https://github.com/brave/brave-browser",
-        "stars": 6845,
-        "forks": 710
-    },
-    {
-        "name": "OpenSfM",
-        "url": "https://api.github.com/repos/mapillary/OpenSfM",
-        "full_name": "mapillary/OpenSfM",
-        "html_url": "https://github.com/mapillary/OpenSfM",
-        "stars": 1756,
-        "forks": 546
-    },
-    {
-        "name": "javascript-algorithms",
-        "url": "https://api.github.com/repos/trekhleb/javascript-algorithms",
-        "full_name": "trekhleb/javascript-algorithms",
-        "html_url": "https://github.com/trekhleb/javascript-algorithms",
-        "stars": 76756,
-        "forks": 12937
-    },
-    {
-        "name": "ccxt",
-        "url": "https://api.github.com/repos/ccxt/ccxt",
-        "full_name": "ccxt/ccxt",
-        "html_url": "https://github.com/ccxt/ccxt",
-        "stars": 14319,
-        "forks": 4045
-    },
-    {
-        "name": "awesome-uses",
-        "url": "https://api.github.com/repos/wesbos/awesome-uses",
-        "full_name": "wesbos/awesome-uses",
-        "html_url": "https://github.com/wesbos/awesome-uses",
-        "stars": 3378,
-        "forks": 788
-    },
-    {
-        "name": "next.js",
-        "url": "https://api.github.com/repos/vercel/next.js",
-        "full_name": "vercel/next.js",
-        "html_url": "https://github.com/vercel/next.js",
-        "stars": 51706,
-        "forks": 8114
-    },
-    {
-        "name": "react-intersection-observer",
-        "url": "https://api.github.com/repos/researchgate/react-intersection-observer",
-        "full_name": "researchgate/react-intersection-observer",
-        "html_url": "https://github.com/researchgate/react-intersection-observer",
-        "stars": 848,
-        "forks": 49
-    },
-    {
-        "name": "LibreLingo",
-        "url": "https://api.github.com/repos/kantord/LibreLingo",
-        "full_name": "kantord/LibreLingo",
-        "html_url": "https://github.com/kantord/LibreLingo",
-        "stars": 600,
-        "forks": 33
-    },
-    {
-        "name": "github-readme-stats",
-        "url": "https://api.github.com/repos/anuraghazra/github-readme-stats",
-        "full_name": "anuraghazra/github-readme-stats",
-        "html_url": "https://github.com/anuraghazra/github-readme-stats",
-        "stars": 6025,
-        "forks": 656
-    },
-    {
-        "name": "response",
-        "url": "https://api.github.com/repos/monzo/response",
-        "full_name": "monzo/response",
-        "html_url": "https://github.com/monzo/response",
-        "stars": 1154,
-        "forks": 101
-    },
-    {
-        "name": "camunda-bpm-examples",
-        "url": "https://api.github.com/repos/camunda/camunda-bpm-examples",
-        "full_name": "camunda/camunda-bpm-examples",
-        "html_url": "https://github.com/camunda/camunda-bpm-examples",
-        "stars": 531,
-        "forks": 806
-    },
-    {
-        "name": "strapi",
-        "url": "https://api.github.com/repos/strapi/strapi",
-        "full_name": "strapi/strapi",
-        "html_url": "https://github.com/strapi/strapi",
-        "stars": 27968,
-        "forks": 3464
-    },
-    {
-        "name": "odoo",
-        "url": "https://api.github.com/repos/odoo/odoo",
-        "full_name": "odoo/odoo",
-        "html_url": "https://github.com/odoo/odoo",
-        "stars": 18311,
-        "forks": 12704
-    },
-    {
-        "name": "remax",
-        "url": "https://api.github.com/repos/remaxjs/remax",
-        "full_name": "remaxjs/remax",
-        "html_url": "https://github.com/remaxjs/remax",
-        "stars": 3023,
-        "forks": 214
-    },
-    {
-        "name": "content",
-        "url": "https://api.github.com/repos/nuxt/content",
-        "full_name": "nuxt/content",
-        "html_url": "https://github.com/nuxt/content",
-        "stars": 875,
-        "forks": 93
-    },
-    {
-        "name": "webpack-book",
-        "url": "https://api.github.com/repos/survivejs/webpack-book",
-        "full_name": "survivejs/webpack-book",
-        "html_url": "https://github.com/survivejs/webpack-book",
-        "stars": 2280,
-        "forks": 334
-    },
-    {
-        "name": "docusaurus",
-        "url": "https://api.github.com/repos/facebook/docusaurus",
-        "full_name": "facebook/docusaurus",
-        "html_url": "https://github.com/facebook/docusaurus",
-        "stars": 18387,
-        "forks": 2050
-    },
-    {
-        "name": "gutenberg",
-        "url": "https://api.github.com/repos/WordPress/gutenberg",
-        "full_name": "WordPress/gutenberg",
-        "html_url": "https://github.com/WordPress/gutenberg",
-        "stars": 6094,
-        "forks": 2041
-    },
-    {
-        "name": "document-register-element",
-        "url": "https://api.github.com/repos/WebReflection/document-register-element",
-        "full_name": "WebReflection/document-register-element",
-        "html_url": "https://github.com/WebReflection/document-register-element",
-        "stars": 1111,
-        "forks": 123
-    },
-    {
-        "name": "jumpserver",
-        "url": "https://api.github.com/repos/jumpserver/jumpserver",
-        "full_name": "jumpserver/jumpserver",
-        "html_url": "https://github.com/jumpserver/jumpserver",
-        "stars": 13660,
-        "forks": 3828
+        "name": "jsxgraph",
+        "url": "https://api.github.com/repos/jsxgraph/jsxgraph",
+        "full_name": "jsxgraph/jsxgraph",
+        "html_url": "https://github.com/jsxgraph/jsxgraph",
+        "stars": 544,
+        "forks": 122
     },
     {
         "name": "react-native-reanimated",
@@ -232,11 +88,155 @@
         "forks": 403
     },
     {
-        "name": "material-ui",
-        "url": "https://api.github.com/repos/mui-org/material-ui",
-        "full_name": "mui-org/material-ui",
-        "html_url": "https://github.com/mui-org/material-ui",
-        "stars": 59881,
-        "forks": 17376
+        "name": "webpack-book",
+        "url": "https://api.github.com/repos/survivejs/webpack-book",
+        "full_name": "survivejs/webpack-book",
+        "html_url": "https://github.com/survivejs/webpack-book",
+        "stars": 2280,
+        "forks": 334
+    },
+    {
+        "name": "rambda",
+        "url": "https://api.github.com/repos/selfrefactor/rambda",
+        "full_name": "selfrefactor/rambda",
+        "html_url": "https://github.com/selfrefactor/rambda",
+        "stars": 938,
+        "forks": 56
+    },
+    {
+        "name": "unlock-music",
+        "url": "https://api.github.com/repos/ix64/unlock-music",
+        "full_name": "ix64/unlock-music",
+        "html_url": "https://github.com/ix64/unlock-music",
+        "stars": 4112,
+        "forks": 834
+    },
+    {
+        "name": "rengine",
+        "url": "https://api.github.com/repos/yogeshojha/rengine",
+        "full_name": "yogeshojha/rengine",
+        "html_url": "https://github.com/yogeshojha/rengine",
+        "stars": 1158,
+        "forks": 169
+    },
+    {
+        "name": "openui5",
+        "url": "https://api.github.com/repos/SAP/openui5",
+        "full_name": "SAP/openui5",
+        "html_url": "https://github.com/SAP/openui5",
+        "stars": 2226,
+        "forks": 1107
+    },
+    {
+        "name": "BlueWallet",
+        "url": "https://api.github.com/repos/BlueWallet/BlueWallet",
+        "full_name": "BlueWallet/BlueWallet",
+        "html_url": "https://github.com/BlueWallet/BlueWallet",
+        "stars": 623,
+        "forks": 261
+    },
+    {
+        "name": "Snap",
+        "url": "https://api.github.com/repos/jmoenig/Snap",
+        "full_name": "jmoenig/Snap",
+        "html_url": "https://github.com/jmoenig/Snap",
+        "stars": 940,
+        "forks": 584
+    },
+    {
+        "name": "popcorn-desktop",
+        "url": "https://api.github.com/repos/popcorn-official/popcorn-desktop",
+        "full_name": "popcorn-official/popcorn-desktop",
+        "html_url": "https://github.com/popcorn-official/popcorn-desktop",
+        "stars": 5042,
+        "forks": 187
+    },
+    {
+        "name": "docusaurus",
+        "url": "https://api.github.com/repos/facebook/docusaurus",
+        "full_name": "facebook/docusaurus",
+        "html_url": "https://github.com/facebook/docusaurus",
+        "stars": 18387,
+        "forks": 2047
+    },
+    {
+        "name": "primefaces",
+        "url": "https://api.github.com/repos/primefaces/primefaces",
+        "full_name": "primefaces/primefaces",
+        "html_url": "https://github.com/primefaces/primefaces",
+        "stars": 1256,
+        "forks": 594
+    },
+    {
+        "name": "lbry-desktop",
+        "url": "https://api.github.com/repos/lbryio/lbry-desktop",
+        "full_name": "lbryio/lbry-desktop",
+        "html_url": "https://github.com/lbryio/lbry-desktop",
+        "stars": 1056,
+        "forks": 309
+    },
+    {
+        "name": "neo",
+        "url": "https://api.github.com/repos/neomjs/neo",
+        "full_name": "neomjs/neo",
+        "html_url": "https://github.com/neomjs/neo",
+        "stars": 947,
+        "forks": 52
+    },
+    {
+        "name": "react-native-website",
+        "url": "https://api.github.com/repos/facebook/react-native-website",
+        "full_name": "facebook/react-native-website",
+        "html_url": "https://github.com/facebook/react-native-website",
+        "stars": 1180,
+        "forks": 3000
+    },
+    {
+        "name": "blog",
+        "url": "https://api.github.com/repos/MuYunyun/blog",
+        "full_name": "MuYunyun/blog",
+        "html_url": "https://github.com/MuYunyun/blog",
+        "stars": 1124,
+        "forks": 180
+    },
+    {
+        "name": "next.js",
+        "url": "https://api.github.com/repos/vercel/next.js",
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stars": 51710,
+        "forks": 8116
+    },
+    {
+        "name": "iptv",
+        "url": "https://api.github.com/repos/iptv-org/iptv",
+        "full_name": "iptv-org/iptv",
+        "html_url": "https://github.com/iptv-org/iptv",
+        "stars": 18768,
+        "forks": 2896
+    },
+    {
+        "name": "lwc-recipes",
+        "url": "https://api.github.com/repos/trailheadapps/lwc-recipes",
+        "full_name": "trailheadapps/lwc-recipes",
+        "html_url": "https://github.com/trailheadapps/lwc-recipes",
+        "stars": 885,
+        "forks": 873
+    },
+    {
+        "name": "LibreLingo",
+        "url": "https://api.github.com/repos/kantord/LibreLingo",
+        "full_name": "kantord/LibreLingo",
+        "html_url": "https://github.com/kantord/LibreLingo",
+        "stars": 600,
+        "forks": 33
+    },
+    {
+        "name": "webdriverio",
+        "url": "https://api.github.com/repos/webdriverio/webdriverio",
+        "full_name": "webdriverio/webdriverio",
+        "html_url": "https://github.com/webdriverio/webdriverio",
+        "stars": 5875,
+        "forks": 1737
     }
 ]
