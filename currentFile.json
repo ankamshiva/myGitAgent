@@ -1,115 +1,43 @@
 [
     {
-        "name": "ava",
-        "url": "https://api.github.com/repos/avajs/ava",
-        "full_name": "avajs/ava",
-        "html_url": "https://github.com/avajs/ava",
-        "stars": 18154,
-        "forks": 1260
-    },
-    {
         "name": "gutenberg",
         "url": "https://api.github.com/repos/WordPress/gutenberg",
         "full_name": "WordPress/gutenberg",
         "html_url": "https://github.com/WordPress/gutenberg",
-        "stars": 6099,
+        "stars": 6100,
         "forks": 2041
     },
     {
-        "name": "functions-samples",
-        "url": "https://api.github.com/repos/firebase/functions-samples",
-        "full_name": "firebase/functions-samples",
-        "html_url": "https://github.com/firebase/functions-samples",
-        "stars": 8848,
-        "forks": 3111
+        "name": "create-react-app",
+        "url": "https://api.github.com/repos/facebook/create-react-app",
+        "full_name": "facebook/create-react-app",
+        "html_url": "https://github.com/facebook/create-react-app",
+        "stars": 80994,
+        "forks": 19640
     },
     {
-        "name": "mevn-cli",
-        "url": "https://api.github.com/repos/madlabsinc/mevn-cli",
-        "full_name": "madlabsinc/mevn-cli",
-        "html_url": "https://github.com/madlabsinc/mevn-cli",
-        "stars": 522,
-        "forks": 92
+        "name": "KaTeX",
+        "url": "https://api.github.com/repos/KaTeX/KaTeX",
+        "full_name": "KaTeX/KaTeX",
+        "html_url": "https://github.com/KaTeX/KaTeX",
+        "stars": 12274,
+        "forks": 858
     },
     {
-        "name": "neo",
-        "url": "https://api.github.com/repos/neomjs/neo",
-        "full_name": "neomjs/neo",
-        "html_url": "https://github.com/neomjs/neo",
-        "stars": 950,
-        "forks": 52
+        "name": "Ghost",
+        "url": "https://api.github.com/repos/TryGhost/Ghost",
+        "full_name": "TryGhost/Ghost",
+        "html_url": "https://github.com/TryGhost/Ghost",
+        "stars": 34536,
+        "forks": 7517
     },
     {
-        "name": "geonode",
-        "url": "https://api.github.com/repos/GeoNode/geonode",
-        "full_name": "GeoNode/geonode",
-        "html_url": "https://github.com/GeoNode/geonode",
-        "stars": 910,
-        "forks": 820
-    },
-    {
-        "name": "react-native-render-html",
-        "url": "https://api.github.com/repos/archriss/react-native-render-html",
-        "full_name": "archriss/react-native-render-html",
-        "html_url": "https://github.com/archriss/react-native-render-html",
-        "stars": 1718,
-        "forks": 463
-    },
-    {
-        "name": "Detox",
-        "url": "https://api.github.com/repos/wix/Detox",
-        "full_name": "wix/Detox",
-        "html_url": "https://github.com/wix/Detox",
-        "stars": 6723,
-        "forks": 1250
-    },
-    {
-        "name": "jodit",
-        "url": "https://api.github.com/repos/xdan/jodit",
-        "full_name": "xdan/jodit",
-        "html_url": "https://github.com/xdan/jodit",
-        "stars": 709,
-        "forks": 192
-    },
-    {
-        "name": "Sabaki",
-        "url": "https://api.github.com/repos/SabakiHQ/Sabaki",
-        "full_name": "SabakiHQ/Sabaki",
-        "html_url": "https://github.com/SabakiHQ/Sabaki",
-        "stars": 1240,
-        "forks": 246
-    },
-    {
-        "name": "treestyletab",
-        "url": "https://api.github.com/repos/piroor/treestyletab",
-        "full_name": "piroor/treestyletab",
-        "html_url": "https://github.com/piroor/treestyletab",
-        "stars": 1948,
-        "forks": 220
-    },
-    {
-        "name": "bozon",
-        "url": "https://api.github.com/repos/railsware/bozon",
-        "full_name": "railsware/bozon",
-        "html_url": "https://github.com/railsware/bozon",
-        "stars": 657,
-        "forks": 45
-    },
-    {
-        "name": "electron-log",
-        "url": "https://api.github.com/repos/megahertz/electron-log",
-        "full_name": "megahertz/electron-log",
-        "html_url": "https://github.com/megahertz/electron-log",
-        "stars": 658,
-        "forks": 88
-    },
-    {
-        "name": "openui5",
-        "url": "https://api.github.com/repos/SAP/openui5",
-        "full_name": "SAP/openui5",
-        "html_url": "https://github.com/SAP/openui5",
-        "stars": 2227,
-        "forks": 1107
+        "name": "next.js",
+        "url": "https://api.github.com/repos/vercel/next.js",
+        "full_name": "vercel/next.js",
+        "html_url": "https://github.com/vercel/next.js",
+        "stars": 51827,
+        "forks": 8170
     },
     {
         "name": "odoo",
@@ -120,123 +48,195 @@
         "forks": 12719
     },
     {
-        "name": "material-ui",
-        "url": "https://api.github.com/repos/mui-org/material-ui",
-        "full_name": "mui-org/material-ui",
-        "html_url": "https://github.com/mui-org/material-ui",
-        "stars": 59993,
-        "forks": 17459
+        "name": "react-lifecycle-methods-diagram",
+        "url": "https://api.github.com/repos/wojtekmaj/react-lifecycle-methods-diagram",
+        "full_name": "wojtekmaj/react-lifecycle-methods-diagram",
+        "html_url": "https://github.com/wojtekmaj/react-lifecycle-methods-diagram",
+        "stars": 2656,
+        "forks": 190
     },
     {
-        "name": "vue-cli",
-        "url": "https://api.github.com/repos/vuejs/vue-cli",
-        "full_name": "vuejs/vue-cli",
-        "html_url": "https://github.com/vuejs/vue-cli",
-        "stars": 25996,
-        "forks": 4924
+        "name": "engine",
+        "url": "https://api.github.com/repos/cocos-creator/engine",
+        "full_name": "cocos-creator/engine",
+        "html_url": "https://github.com/cocos-creator/engine",
+        "stars": 1798,
+        "forks": 841
     },
     {
-        "name": "haproxy-wi",
-        "url": "https://api.github.com/repos/Aidaho12/haproxy-wi",
-        "full_name": "Aidaho12/haproxy-wi",
-        "html_url": "https://github.com/Aidaho12/haproxy-wi",
-        "stars": 634,
-        "forks": 149
+        "name": "gatsby",
+        "url": "https://api.github.com/repos/gatsbyjs/gatsby",
+        "full_name": "gatsbyjs/gatsby",
+        "html_url": "https://github.com/gatsbyjs/gatsby",
+        "stars": 46331,
+        "forks": 8607
     },
     {
-        "name": "testcafe",
-        "url": "https://api.github.com/repos/DevExpress/testcafe",
-        "full_name": "DevExpress/testcafe",
-        "html_url": "https://github.com/DevExpress/testcafe",
-        "stars": 8383,
-        "forks": 549
+        "name": "bugsnag-js",
+        "url": "https://api.github.com/repos/bugsnag/bugsnag-js",
+        "full_name": "bugsnag/bugsnag-js",
+        "html_url": "https://github.com/bugsnag/bugsnag-js",
+        "stars": 579,
+        "forks": 177
     },
     {
-        "name": "i18n-module",
-        "url": "https://api.github.com/repos/nuxt-community/i18n-module",
-        "full_name": "nuxt-community/i18n-module",
-        "html_url": "https://github.com/nuxt-community/i18n-module",
-        "stars": 666,
-        "forks": 227
+        "name": "Awesome-JavaScript-Interviews",
+        "url": "https://api.github.com/repos/rohan-paul/Awesome-JavaScript-Interviews",
+        "full_name": "rohan-paul/Awesome-JavaScript-Interviews",
+        "html_url": "https://github.com/rohan-paul/Awesome-JavaScript-Interviews",
+        "stars": 616,
+        "forks": 171
     },
     {
-        "name": "portainer",
-        "url": "https://api.github.com/repos/portainer/portainer",
-        "full_name": "portainer/portainer",
-        "html_url": "https://github.com/portainer/portainer",
-        "stars": 15291,
-        "forks": 1440
+        "name": "js-joda",
+        "url": "https://api.github.com/repos/js-joda/js-joda",
+        "full_name": "js-joda/js-joda",
+        "html_url": "https://github.com/js-joda/js-joda",
+        "stars": 1175,
+        "forks": 89
     },
     {
-        "name": "final-form",
-        "url": "https://api.github.com/repos/final-form/final-form",
-        "full_name": "final-form/final-form",
-        "html_url": "https://github.com/final-form/final-form",
-        "stars": 2558,
-        "forks": 167
+        "name": "vis-network",
+        "url": "https://api.github.com/repos/visjs/vis-network",
+        "full_name": "visjs/vis-network",
+        "html_url": "https://github.com/visjs/vis-network",
+        "stars": 908,
+        "forks": 132
     },
     {
-        "name": "covid19",
-        "url": "https://api.github.com/repos/pomber/covid19",
-        "full_name": "pomber/covid19",
-        "html_url": "https://github.com/pomber/covid19",
-        "stars": 1099,
-        "forks": 381
+        "name": "Fomantic-UI",
+        "url": "https://api.github.com/repos/fomantic/Fomantic-UI",
+        "full_name": "fomantic/Fomantic-UI",
+        "html_url": "https://github.com/fomantic/Fomantic-UI",
+        "stars": 2013,
+        "forks": 203
+    },
+    {
+        "name": "datetimepicker",
+        "url": "https://api.github.com/repos/react-native-community/datetimepicker",
+        "full_name": "react-native-community/datetimepicker",
+        "html_url": "https://github.com/react-native-community/datetimepicker",
+        "stars": 756,
+        "forks": 121
+    },
+    {
+        "name": "uppy",
+        "url": "https://api.github.com/repos/transloadit/uppy",
+        "full_name": "transloadit/uppy",
+        "html_url": "https://github.com/transloadit/uppy",
+        "stars": 22933,
+        "forks": 1373
     },
     {
         "name": "strapi",
         "url": "https://api.github.com/repos/strapi/strapi",
         "full_name": "strapi/strapi",
         "html_url": "https://github.com/strapi/strapi",
-        "stars": 28057,
-        "forks": 3481
+        "stars": 28059,
+        "forks": 3483
     },
     {
-        "name": "DevExtreme",
-        "url": "https://api.github.com/repos/DevExpress/DevExtreme",
-        "full_name": "DevExpress/DevExtreme",
-        "html_url": "https://github.com/DevExpress/DevExtreme",
-        "stars": 1248,
-        "forks": 357
+        "name": "neutrino",
+        "url": "https://api.github.com/repos/neutrinojs/neutrino",
+        "full_name": "neutrinojs/neutrino",
+        "html_url": "https://github.com/neutrinojs/neutrino",
+        "stars": 3589,
+        "forks": 228
     },
     {
-        "name": "Ghost",
-        "url": "https://api.github.com/repos/TryGhost/Ghost",
-        "full_name": "TryGhost/Ghost",
-        "html_url": "https://github.com/TryGhost/Ghost",
-        "stars": 34535,
-        "forks": 7517
+        "name": "proposal-temporal",
+        "url": "https://api.github.com/repos/tc39/proposal-temporal",
+        "full_name": "tc39/proposal-temporal",
+        "html_url": "https://github.com/tc39/proposal-temporal",
+        "stars": 866,
+        "forks": 49
     },
     {
-        "name": "code-dot-org",
-        "url": "https://api.github.com/repos/code-dot-org/code-dot-org",
-        "full_name": "code-dot-org/code-dot-org",
-        "html_url": "https://github.com/code-dot-org/code-dot-org",
-        "stars": 565,
-        "forks": 336
+        "name": "sinon",
+        "url": "https://api.github.com/repos/sinonjs/sinon",
+        "full_name": "sinonjs/sinon",
+        "html_url": "https://github.com/sinonjs/sinon",
+        "stars": 8091,
+        "forks": 754
     },
     {
-        "name": "wp-calypso",
-        "url": "https://api.github.com/repos/Automattic/wp-calypso",
-        "full_name": "Automattic/wp-calypso",
-        "html_url": "https://github.com/Automattic/wp-calypso",
-        "stars": 11520,
-        "forks": 1778
+        "name": "react-typescript-cheatsheet",
+        "url": "https://api.github.com/repos/typescript-cheatsheets/react-typescript-cheatsheet",
+        "full_name": "typescript-cheatsheets/react-typescript-cheatsheet",
+        "html_url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+        "stars": 16027,
+        "forks": 1030
     },
     {
-        "name": "vanta",
-        "url": "https://api.github.com/repos/tengbao/vanta",
-        "full_name": "tengbao/vanta",
-        "html_url": "https://github.com/tengbao/vanta",
-        "stars": 814,
-        "forks": 849
+        "name": "uni-app",
+        "url": "https://api.github.com/repos/dcloudio/uni-app",
+        "full_name": "dcloudio/uni-app",
+        "html_url": "https://github.com/dcloudio/uni-app",
+        "stars": 24406,
+        "forks": 2216
     },
     {
-        "name": "github-readme-stats",
-        "url": "https://api.github.com/repos/anuraghazra/github-readme-stats",
-        "full_name": "anuraghazra/github-readme-stats",
-        "html_url": "https://github.com/anuraghazra/github-readme-stats",
-        "stars": 6631,
-        "forks": 810
+        "name": "tiptap",
+        "url": "https://api.github.com/repos/ueberdosis/tiptap",
+        "full_name": "ueberdosis/tiptap",
+        "html_url": "https://github.com/ueberdosis/tiptap",
+        "stars": 7699,
+        "forks": 783
+    },
+    {
+        "name": "openui5",
+        "url": "https://api.github.com/repos/SAP/openui5",
+        "full_name": "SAP/openui5",
+        "html_url": "https://github.com/SAP/openui5",
+        "stars": 2227,
+        "forks": 1107
+    },
+    {
+        "name": "frida-snippets",
+        "url": "https://api.github.com/repos/iddoeldor/frida-snippets",
+        "full_name": "iddoeldor/frida-snippets",
+        "html_url": "https://github.com/iddoeldor/frida-snippets",
+        "stars": 816,
+        "forks": 174
+    },
+    {
+        "name": "devtools-frontend",
+        "url": "https://api.github.com/repos/ChromeDevTools/devtools-frontend",
+        "full_name": "ChromeDevTools/devtools-frontend",
+        "html_url": "https://github.com/ChromeDevTools/devtools-frontend",
+        "stars": 1529,
+        "forks": 245
+    },
+    {
+        "name": "debugger-protocol-viewer",
+        "url": "https://api.github.com/repos/ChromeDevTools/debugger-protocol-viewer",
+        "full_name": "ChromeDevTools/debugger-protocol-viewer",
+        "html_url": "https://github.com/ChromeDevTools/debugger-protocol-viewer",
+        "stars": 674,
+        "forks": 151
+    },
+    {
+        "name": "devtools-protocol",
+        "url": "https://api.github.com/repos/ChromeDevTools/devtools-protocol",
+        "full_name": "ChromeDevTools/devtools-protocol",
+        "html_url": "https://github.com/ChromeDevTools/devtools-protocol",
+        "stars": 527,
+        "forks": 89
+    },
+    {
+        "name": "taro",
+        "url": "https://api.github.com/repos/NervJS/taro",
+        "full_name": "NervJS/taro",
+        "html_url": "https://github.com/NervJS/taro",
+        "stars": 26600,
+        "forks": 3249
+    },
+    {
+        "name": "react-native-modal-datetime-picker",
+        "url": "https://api.github.com/repos/mmazzarolo/react-native-modal-datetime-picker",
+        "full_name": "mmazzarolo/react-native-modal-datetime-picker",
+        "html_url": "https://github.com/mmazzarolo/react-native-modal-datetime-picker",
+        "stars": 1884,
+        "forks": 273
     }
 ]
