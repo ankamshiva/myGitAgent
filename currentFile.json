@@ -1,5 +1,13 @@
 [
     {
+        "name": "openapi-directory",
+        "url": "https://api.github.com/repos/APIs-guru/openapi-directory",
+        "full_name": "APIs-guru/openapi-directory",
+        "html_url": "https://github.com/APIs-guru/openapi-directory",
+        "stars": 2063,
+        "forks": 383
+    },
+    {
         "name": "ring-ui",
         "url": "https://api.github.com/repos/JetBrains/ring-ui",
         "full_name": "JetBrains/ring-ui",
@@ -230,13 +238,5 @@
         "html_url": "https://github.com/webpack/webpack-cli",
         "stars": 1920,
         "forks": 377
-    },
-    {
-        "name": "xod",
-        "url": "https://api.github.com/repos/xodio/xod",
-        "full_name": "xodio/xod",
-        "html_url": "https://github.com/xodio/xod",
-        "stars": 588,
-        "forks": 86
     }
 ]
