@@ -21,4 +21,4 @@ let start = async () => {
 }
 
 // Run this every one hour
-setInterval(start, 10000)
+setInterval(start, 3600000)
