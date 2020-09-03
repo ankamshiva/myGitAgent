@@ -32,14 +32,6 @@
         "forks": 8486
     },
     {
-        "name": "mattermost-webapp",
-        "url": "https://api.github.com/repos/mattermost/mattermost-webapp",
-        "full_name": "mattermost/mattermost-webapp",
-        "html_url": "https://github.com/mattermost/mattermost-webapp",
-        "stars": 941,
-        "forks": 1697
-    },
-    {
         "name": "netron",
         "url": "https://api.github.com/repos/lutzroeder/netron",
         "full_name": "lutzroeder/netron",
@@ -88,22 +80,6 @@
         "forks": 3183
     },
     {
-        "name": "hexo-theme-volantis",
-        "url": "https://api.github.com/repos/volantis-x/hexo-theme-volantis",
-        "full_name": "volantis-x/hexo-theme-volantis",
-        "html_url": "https://github.com/volantis-x/hexo-theme-volantis",
-        "stars": 828,
-        "forks": 282
-    },
-    {
-        "name": "next",
-        "url": "https://api.github.com/repos/alibaba-fusion/next",
-        "full_name": "alibaba-fusion/next",
-        "html_url": "https://github.com/alibaba-fusion/next",
-        "stars": 3285,
-        "forks": 326
-    },
-    {
         "name": "matrix",
         "url": "https://api.github.com/repos/ResultadosDigitais/matrix",
         "full_name": "ResultadosDigitais/matrix",
@@ -144,14 +120,6 @@
         "forks": 19895
     },
     {
-        "name": "ccxt",
-        "url": "https://api.github.com/repos/ccxt/ccxt",
-        "full_name": "ccxt/ccxt",
-        "html_url": "https://github.com/ccxt/ccxt",
-        "stars": 14502,
-        "forks": 4091
-    },
-    {
         "name": "keystone",
         "url": "https://api.github.com/repos/keystonejs/keystone",
         "full_name": "keystonejs/keystone",
@@ -168,22 +136,6 @@
         "forks": 168
     },
     {
-        "name": "cloudserver",
-        "url": "https://api.github.com/repos/scality/cloudserver",
-        "full_name": "scality/cloudserver",
-        "html_url": "https://github.com/scality/cloudserver",
-        "stars": 1069,
-        "forks": 188
-    },
-    {
-        "name": "deck",
-        "url": "https://api.github.com/repos/nextcloud/deck",
-        "full_name": "nextcloud/deck",
-        "html_url": "https://github.com/nextcloud/deck",
-        "stars": 540,
-        "forks": 117
-    },
-    {
         "name": "taro",
         "url": "https://api.github.com/repos/NervJS/taro",
         "full_name": "NervJS/taro",
@@ -192,28 +144,12 @@
         "forks": 3292
     },
     {
-        "name": "javascript-algorithms",
-        "url": "https://api.github.com/repos/trekhleb/javascript-algorithms",
-        "full_name": "trekhleb/javascript-algorithms",
-        "html_url": "https://github.com/trekhleb/javascript-algorithms",
-        "stars": 80011,
-        "forks": 13401
-    },
-    {
         "name": "calendar",
         "url": "https://api.github.com/repos/nextcloud/calendar",
         "full_name": "nextcloud/calendar",
         "html_url": "https://github.com/nextcloud/calendar",
         "stars": 561,
         "forks": 138
-    },
-    {
-        "name": "react-native-elements",
-        "url": "https://api.github.com/repos/react-native-elements/react-native-elements",
-        "full_name": "react-native-elements/react-native-elements",
-        "html_url": "https://github.com/react-native-elements/react-native-elements",
-        "stars": 19285,
-        "forks": 3932
     },
     {
         "name": "uni-app",
@@ -238,5 +174,69 @@
         "html_url": "https://github.com/NodeBB/NodeBB",
         "stars": 11310,
         "forks": 2271
+    },
+    {
+        "name": "pwa-studio",
+        "url": "https://api.github.com/repos/magento/pwa-studio",
+        "full_name": "magento/pwa-studio",
+        "html_url": "https://github.com/magento/pwa-studio",
+        "stars": 701,
+        "forks": 427
+    },
+    {
+        "name": "react-native-shimmer-placeholder",
+        "url": "https://api.github.com/repos/tomzaku/react-native-shimmer-placeholder",
+        "full_name": "tomzaku/react-native-shimmer-placeholder",
+        "html_url": "https://github.com/tomzaku/react-native-shimmer-placeholder",
+        "stars": 554,
+        "forks": 66
+    },
+    {
+        "name": "odoo",
+        "url": "https://api.github.com/repos/odoo/odoo",
+        "full_name": "odoo/odoo",
+        "html_url": "https://github.com/odoo/odoo",
+        "stars": 18598,
+        "forks": 12846
+    },
+    {
+        "name": "v4",
+        "url": "https://api.github.com/repos/bchiang7/v4",
+        "full_name": "bchiang7/v4",
+        "html_url": "https://github.com/bchiang7/v4",
+        "stars": 1919,
+        "forks": 863
+    },
+    {
+        "name": "vue-cli",
+        "url": "https://api.github.com/repos/vuejs/vue-cli",
+        "full_name": "vuejs/vue-cli",
+        "html_url": "https://github.com/vuejs/vue-cli",
+        "stars": 26211,
+        "forks": 4991
+    },
+    {
+        "name": "awx",
+        "url": "https://api.github.com/repos/ansible/awx",
+        "full_name": "ansible/awx",
+        "html_url": "https://github.com/ansible/awx",
+        "stars": 8289,
+        "forks": 2084
+    },
+    {
+        "name": "Recoil",
+        "url": "https://api.github.com/repos/facebookexperimental/Recoil",
+        "full_name": "facebookexperimental/Recoil",
+        "html_url": "https://github.com/facebookexperimental/Recoil",
+        "stars": 9137,
+        "forks": 406
+    },
+    {
+        "name": "formio.js",
+        "url": "https://api.github.com/repos/formio/formio.js",
+        "full_name": "formio/formio.js",
+        "html_url": "https://github.com/formio/formio.js",
+        "stars": 880,
+        "forks": 567
     }
 ]
